@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDADescriptor>
+   <DataSources>
+      <Connection id="LoadCenters" type="kettle.TransFromFile">
+         <KtrFile>data/loadOutputFiles.ktr</KtrFile>
+      </Connection>
+      <Connection id="SelectProvincia" type="kettle.TransFromFile">
+         <KtrFile>data/sel_provincia.ktr</KtrFile>
+      </Connection>
+      <Connection id="SelectPoblacion" type="kettle.TransFromFile">
+         <KtrFile>data/sel_poblacion.ktr</KtrFile>
+         <variables datarow-name="param_provincia" variable-name="param_provincia"/>
+      </Connection>
+      <Connection id="SelectCategoria" type="kettle.TransFromFile">
+         <KtrFile>data/sel_categoria.ktr</KtrFile>
+         <variables datarow-name="param_provincia" variable-name="param_provincia"/>
+         <variables datarow-name="param_poblacion" variable-name="param_poblacion"/>
+      </Connection>
+      <Connection id="SelectDada" type="kettle.TransFromFile">
+         <KtrFile>data/sel_datoss.ktr</KtrFile>
+         <variables datarow-name="param_provincia" variable-name="param_provincia"/>
+         <variables datarow-name="param_poblacion" variable-name="param_poblacion"/>
+         <variables datarow-name="param_categoria" variable-name="param_categoria"/>
+      </Connection>
+   </DataSources>
+   <DataAccess access="public" connection="LoadCenters" id="LoadCenters" type="kettle">
+      <Name>LoadCenters</Name>
+      <Cache duration="3600" enabled="true"/>
+      <Columns/>
+      <Parameters/>
+      <Query><![CDATA[Text file output DATA]]></Query>
+   </DataAccess>
+   <DataAccess access="public" connection="SelectProvincia" id="SelectProvincia" type="kettle">
+      <Name>SelectProvincia</Name>
+      <Cache duration="3600" enabled="true"/>
+      <Columns/>
+      <Parameters/>
+      <Query><![CDATA[result]]></Query>
+   </DataAccess>
+   <DataAccess access="public" connection="SelectPoblacion" id="SelectPoblacion" type="kettle">
+      <Name>SelectPoblacion</Name>
+      <Cache duration="3600" enabled="true"/>
+      <Columns/>
+      <Parameters>
+         <Parameter default="param_provincia" name="param_provincia" type="String"/>
+      </Parameters>
+      <Query><![CDATA[result]]></Query>
+   </DataAccess>
+   <DataAccess access="public" connection="SelectCategoria" id="SelectCategoria" type="kettle">
+      <Name>SelectCategoria</Name>
+      <Cache duration="3600" enabled="true"/>
+      <Columns/>
+      <Parameters>
+         <Parameter default="param_provincia" name="param_provincia" type="String"/>
+         <Parameter default="param_poblacion" name="param_poblacion" type="String"/>
+      </Parameters>
+      <Query><![CDATA[result]]></Query>
+   </DataAccess>
+   <DataAccess access="public" connection="SelectDada" id="SelectDada" type="kettle">
+      <Name>SelectDada</Name>
+      <Cache duration="3600" enabled="true"/>
+      <Columns/>
+      <Parameters>
+         <Parameter default="param_provincia" name="param_provincia" type="String"/>
+         <Parameter default="param_poblacion" name="param_poblacion" type="String"/>
+         <Parameter default="param_categoria" name="param_categoria" type="String"/>
+      </Parameters>
+      <Query><![CDATA[result]]></Query>
+   </DataAccess>
+</CDADescriptor>

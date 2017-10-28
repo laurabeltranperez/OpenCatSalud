@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="25-10-2017 09:47:42 CEST" exportBy="admin" rootFolder="/public/" manifestVersion="2"/>
+    <ExportManifestEntity path="OpenCatSalud">
+        <ExportManifestProperty>
+            <EntityMetaData name="OpenCatSalud" createdDate="2017-07-29T23:53:03.722+02:00" isFolder="true" path="OpenCatSalud" isHidden="false" locale="en_US" title="OpenCatSalud"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/.js">
+        <ExportManifestProperty>
+            <EntityMetaData name=".js" createdDate="2017-08-19T16:17:33.365+02:00" isFolder="false" path="OpenCatSalud/.js" isHidden="false" locale="en_US" title=".js"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/OpenCatSalud.cda">
+        <ExportManifestProperty>
+            <EntityMetaData name="OpenCatSalud.cda" createdDate="2017-08-19T16:12:34.894+02:00" isFolder="false" path="OpenCatSalud/OpenCatSalud.cda" isHidden="false" locale="en_US" title="OpenCatSalud.cda"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/OpenCatSalud.cdfde">
+        <ExportManifestProperty>
+            <EntityMetaData name="OpenCatSalud.cdfde" createdDate="2017-08-19T16:12:34.488+02:00" isFolder="false" path="OpenCatSalud/OpenCatSalud.cdfde" isHidden="false" locale="en_US" title="OpenCatSalud.cdfde"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/OpenCatSalud.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="OpenCatSalud.wcdf" createdDate="2017-08-19T16:12:34.357+02:00" isFolder="false" path="OpenCatSalud/OpenCatSalud.wcdf" isHidden="false" locale="en_US" description="EvolutionMap" title="OpenCatSalud"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <aces>
+                    <permissions>READ</permissions>
+                    <recipient>Authenticated</recipient>
+                    <recipientType>ROLE</recipientType>
+                </aces>
+                <aces>
+                    <permissions>READ</permissions>
+                    <recipient>Anonymous</recipient>
+                    <recipientType>ROLE</recipientType>
+                </aces>
+                <entriesInheriting>false</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data">
+        <ExportManifestProperty>
+            <EntityMetaData name="data" createdDate="2017-08-21T06:58:42.957+02:00" isFolder="true" path="OpenCatSalud/data" isHidden="false" locale="en_US" title="data"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/Info.pdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="Info.pdf" createdDate="2017-09-13T02:25:18.079+02:00" isFolder="false" path="OpenCatSalud/data/Info.pdf" isHidden="false" locale="en_US" title="Info"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/OpenCatSalud.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="OpenCatSalud.png" createdDate="2017-09-13T01:40:27.684+02:00" isFolder="false" path="OpenCatSalud/data/OpenCatSalud.png" isHidden="true" locale="en_US" title="OpenCatSalud"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/bootstrap-multiselect.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="bootstrap-multiselect.css" createdDate="2017-09-01T08:47:39.229+02:00" isFolder="false" path="OpenCatSalud/data/bootstrap-multiselect.css" isHidden="true" locale="en_US" title="bootstrap-multiselect"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/bootstrap-multiselect.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="bootstrap-multiselect.js" createdDate="2017-09-01T08:47:06.152+02:00" isFolder="false" path="OpenCatSalud/data/bootstrap-multiselect.js" isHidden="true" locale="en_US" title="bootstrap-multiselect"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/info.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="info.png" createdDate="2017-09-13T01:57:51.608+02:00" isFolder="false" path="OpenCatSalud/data/info.png" isHidden="true" locale="en_US" title="info"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/loadOutputFiles.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="loadOutputFiles.ktr" createdDate="2017-08-21T07:00:12.183+02:00" isFolder="false" path="OpenCatSalud/data/loadOutputFiles.ktr" isHidden="true" locale="en_US" title="loadOutputFiles"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/sel_categoria.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="sel_categoria.ktr" createdDate="2017-08-21T06:59:29.662+02:00" isFolder="false" path="OpenCatSalud/data/sel_categoria.ktr" isHidden="true" locale="en_US" title="sel_categoria"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/sel_datoss.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="sel_datoss.ktr" createdDate="2017-08-27T16:18:10.532+02:00" isFolder="false" path="OpenCatSalud/data/sel_datoss.ktr" isHidden="true" locale="en_US" title="sel_datoss"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/sel_poblacion.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="sel_poblacion.ktr" createdDate="2017-08-21T06:59:52.257+02:00" isFolder="false" path="OpenCatSalud/data/sel_poblacion.ktr" isHidden="true" locale="en_US" title="sel_poblacion"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/data/sel_provincia.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="sel_provincia.ktr" createdDate="2017-08-23T02:47:22.188+02:00" isFolder="false" path="OpenCatSalud/data/sel_provincia.ktr" isHidden="true" locale="en_US" title="sel_provincia"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/loadOutputFiles.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="loadOutputFiles.ktr" createdDate="2017-07-30T00:43:09.900+02:00" isFolder="false" path="OpenCatSalud/loadOutputFiles.ktr" isHidden="true" locale="en_US" title="loadOutputFiles"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/load_pharmacies.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="load_pharmacies.ktr" createdDate="2017-07-29T23:53:41.831+02:00" isFolder="false" path="OpenCatSalud/load_pharmacies.ktr" isHidden="true" locale="en_US" title="load_pharmacies"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/runLoadDatafiles.kjb">
+        <ExportManifestProperty>
+            <EntityMetaData name="runLoadDatafiles.kjb" createdDate="2017-07-29T23:54:05.761+02:00" isFolder="false" path="OpenCatSalud/runLoadDatafiles.kjb" isHidden="true" locale="en_US" title="runLoadDatafiles"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/sel_datoss.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="sel_datoss.ktr" createdDate="2017-08-27T17:01:26.797+02:00" isFolder="false" path="OpenCatSalud/sel_datoss.ktr" isHidden="true" locale="en_US" title="sel_datoss"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="OpenCatSalud/sel_poblacion.ktr">
+        <ExportManifestProperty>
+            <EntityMetaData name="sel_poblacion.ktr" createdDate="2017-08-27T17:01:46.452+02:00" isFolder="false" path="OpenCatSalud/sel_poblacion.ktr" isHidden="true" locale="en_US" title="sel_poblacion"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>admin</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

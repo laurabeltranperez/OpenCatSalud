@@ -1,0 +1,1251 @@
+Nombre;Direccion;Municipio;Código Postal;Provincia;Telefono
+MERANGES                  ;PL. CORRAL, S/N                        ;Meranges              ;17539          ;GIRONA         ;972881786      
+PUIGCERDÀ                 ;PL. DE SANTA MARIA, Nº 1               ;Puigcerdà             ;17520          ;GIRONA         ;972880150      
+GUILS DE CERDANYA         ;C/ MALET, Nº 12                        ;Guils de Cerdanya     ;17528          ;GIRONA         ;972881786      
+GER                       ;C/ DEL REC, Nº 2                       ;Ger                   ;17539          ;GIRONA         ;972881786      
+BOLVIR                    ;C/ CAMÍ REIAL, Nº 13                   ;Bolvir                ;17539          ;GIRONA         ;972881786      
+ALP                       ;PG. AGNÈS FABRÓ, S/N                   ;Alp                   ;17538          ;GIRONA         ;972890381      
+LLÍVIA                    ;C/ RAVAL, Nº 45                        ;Llívia                ;17527          ;GIRONA         ;972146213      
+D'ALL                     ;C/ PLAÇA MAJOR S/N                     ;Isòvol                ;17539          ;GIRONA         ;972894051      
+FONTANALS DE CERDANYA     ;C/ PUIGCERDÓ, Nº 1                     ;Fontanals de Cerdanya ;17538          ;GIRONA         ;972890381      
+CUNIT                     ;AVDA. DEL CASTEL, Nº 16                ;Cunit                 ;43881          ;TARRAGONA      ;977676332      
+RANXOS DE BONANY          ;C/ RANXOS DE BONANY, S/N               ;Querol                ;43819          ;TARRAGONA      ;977638289      
+VALLFOGONA DE RIUCORB     ;CAMÍ DE SANT PERE, Nº 4                ;Vallfogona de Riucorb ;43427          ;TARRAGONA      ;977880000      
+SANTA COLOMA DE QUERALT   ;C/ SEGARRA, Nº 3                       ;Santa Coloma de Queral;43420          ;TARRAGONA      ;977880778      
+SAVALLÓ DEL COMTAT        ;PL. MAJOR, Nº 1                        ;Savallà del Comtat    ;43427          ;TARRAGONA      ;977880778      
+CONESA                    ;CTRA. ROCAFORT, Nº 15                  ;Conesa                ;43427          ;TARRAGONA      ;977898001      
+SANT LLORENÇ DE MORUNYS   ;PL. DE LES ERES, Nº 5                  ;Sant Llorenç de Moruny;25282          ;LLEIDA         ;973492510      
+LA COMA I LA PEDRA        ;PL. AJUNTAMENT,S/N                     ;Coma i la Pedra, La   ;25284          ;LLEIDA         ;973492378      
+NAVÈS                     ;CTRA. PANTÀ DE ST PONÇ - URB STA LLÚCIA;Navès                 ;25286          ;LLEIDA         ;973482553      
+SOLSONÈS                  ;PL. GUITART, Nº 1                      ;Solsona               ;25280          ;LLEIDA         ;973481172      
+CAMBRILS                  ;CTRA. COLL DE JOU - FONT D'ESPIA, KM 18;Odèn                  ;25283          ;LLEIDA         ;973489001      
+GÓSOL                     ;PL. MAJOR, Nº 1                        ;Gósol                 ;25716          ;LLEIDA         ;973370201      
+BIOSCA                    ;C/ NOU, Nº 5                           ;Biosca                ;25752          ;LLEIDA         ;973473528      
+ARDÈVOL DE PINÓS          ;PL. MAJOR, S/N                         ;Pinós                 ;25287          ;LLEIDA         ;973473292      
+TORÀ                      ;PL. DEL VALL, Nº 1                     ;Torà                  ;25750          ;LLEIDA         ;973473333      
+LA MOLSOSA                ;PL. ESGLÉSIA, S/N                      ;Molsosa, La           ;8281           ;LLEIDA         ;973296090      
+VIDRÀ                     ;PL. DE L'AJUNTAMENT, Nº 2, Nº BAIX     ;Vidrà                 ;17515          ;GIRONA         ;938551255      
+VILADRAU                  ;C/ SANT ANTONI MARIA CLARET, Nº 4      ;Viladrau              ;17406          ;GIRONA         ;938849402      
+ESPINELVES                ;C/ DE LES ESCOLES, S/N                 ;Espinelves            ;17405          ;GIRONA         ;938857368      
+CALELLA                   ;C/ SANT JAUME, Nº 209-217              ;Calella               ;8370           ;BARCELONA      ;937665950      
+SANT POL                  ;C/ SANTA CLARA, Nº 1                   ;Sant Pol de Mar       ;8395           ;BARCELONA      ;937604818      
+SANT ISCLE DE VALLALTA    ;C/ ESGLÉSIA, Nº 5                      ;Sant Iscle de Vallalta;8359           ;BARCELONA      ;937946089      
+CANET DE MAR              ;C/ PL. DE LA UNIVERSITAT, Nº 1         ;Canet de Mar          ;8360           ;BARCELONA      ;937956676      
+SANT CEBRIÀ DE VALLALTA   ;C/ CENTRE, Nº 27                       ;Sant Cebrià de Vallalt;8396           ;BARCELONA      ;937631475      
+PALAFOLLS                 ;C/ SINDICAT, S/N                       ;Palafolls             ;8389           ;BARCELONA      ;937620453      
+DR. JOSEP TORNER I FORS (M;AV. DE LA COSTA BRAVA, S/N             ;Malgrat de Mar        ;8380           ;BARCELONA      ;937619500      
+PINEDA DE MAR             ;C/ TARRAGONA, Nº 49                    ;Pineda de Mar         ;08397          ;BARCELONA      ;937671647      
+SANTA SUSANNA             ;PL. CATALUNYA, S/N                     ;Pineda de Mar         ;8398           ;BARCELONA      ;937678139      
+POBLENOU                  ;C/ EMPORDÓ, Nº 3                       ;Pineda de Mar         ;8397           ;BARCELONA      ;937691598      
+FOGARS DE LA SELVA        ;CTRA. BV 15222, Nº KM 5                ;Fogars de la Selva    ;8495           ;BARCELONA      ;937644025      
+TORDERA                   ;C/ DOCTOR CARRERAS, Nº 29              ;Tordera               ;8499           ;BARCELONA      ;937642790      
+LLES DE CERDANYA          ;PL. MAJOR, Nº 1                        ;Lles de Cerdanya      ;25726          ;LLEIDA         ;973515047      
+LA SEU D'URGELL           ;PG. DE JOAN BRUDIEU, Nº 8              ;Seu d'Urgell, La      ;25700          ;LLEIDA         ;973350470      
+CASTELLCIUTAT             ;C/ MARC COMES, Nº 6                    ;Seu d'Urgell, La      ;25710          ;LLEIDA         ;973350935      
+TUIXÉN                    ;C/ ÚNIC, S/N. CASA METGE               ;Josa i Tuixén         ;25717          ;LLEIDA         ;973370039      
+NOVES DE SEGRE            ;C/ ÚNIC, S/N                           ;Valls d'Aguilar, Les  ;25795          ;LLEIDA         ;973387321      
+SORRIBES                  ;C/ ÚNIC, S/N                           ;Vansa i Fórnols, La   ;25717          ;LLEIDA         ;973370301      
+BESCARAN                  ;C/ ÚNIC, S/N                           ;Valls de Valira, Les  ;25719          ;LLEIDA         ;973350458      
+MONTFERRER                ;C/ ÚNIC, S/N                           ;Montferrer i Castellbò;25711          ;LLEIDA         ;973350470      
+ARSÈGUEL                  ;C/ ÚNIC, S/N                           ;Arsèguel              ;25722          ;LLEIDA         ;973387314      
+ESTAMARIU                 ;C/ ÚNIC, S/N                           ;Estamariu             ;25719          ;LLEIDA         ;973351457      
+ADRALL                    ;C/ MAJOR, S/N                          ;Ribera d'Urgellet     ;25797          ;LLEIDA         ;973387295      
+ARFA                      ;C/ ÚNIC, S/N                           ;Ribera d'Urgellet     ;25713          ;LLEIDA         ;973387314      
+EL PLA DE SANT TIRS       ;PL. ERA BADIA, S/N                     ;Ribera d'Urgellet     ;25796          ;LLEIDA         ;973387434      
+MONTAN DE TOST            ;C/ ÚNIC, S/N                           ;Ribera d'Urgellet     ;25796          ;LLEIDA         ;973387105      
+PARROQUIA D'HORTÓ         ;C/ ÚNIC, S/N                           ;Ribera d'Urgellet     ;25714          ;LLEIDA         ;973350470      
+MONTELLÓ I MARTINET       ;C/ CERDANYA, Nº 1                      ;Montellà i Martinet   ;25724          ;LLEIDA         ;973515132      
+ALÀS                      ;C/ MAJOR, S/N                          ;Alàs i Cerc           ;25718          ;LLEIDA         ;973360645      
+PERAMOLA                  ;C/ FEDERIC RIBÓ, S/N                   ;Peramola              ;25790          ;LLEIDA         ;973470272      
+ALINYÀ                    ;PL. VALL PLA, S/N                      ;Fígols i Alinyà       ;25794          ;LLEIDA         ;973370087      
+ORGANYÀ                   ;C/ MAJOR, Nº 38                        ;Organyà               ;25794          ;LLEIDA         ;973382099      
+OLIANA                    ;C/GIRONA, Nº 8                         ;Oliana                ;25790          ;LLEIDA         ;973463022      
+FÍGOLS                    ;C/ ESGLÉSIA, S/N                       ;Fígols i Alinyà       ;25794          ;LLEIDA         ;973383100      
+COLL DE NARGÓ             ;PL. AJUNTAMENT, S/N                    ;Coll de Nargó         ;25793          ;LLEIDA         ;973383552      
+TRAGÓ                     ;PL. ESCOLA, S/N                        ;Peramola              ;25790          ;LLEIDA         ;973350470      
+OGERN                     ;CTRA. SOLSONA, S/N                     ;Bassella              ;25289          ;LLEIDA         ;973462779      
+SENET                     ;C/ ÚNIC, S/N                           ;Vilaller              ;25553          ;LLEIDA         ;973697060      
+VILALLER                  ;CARRE JOAN MIRÓ, S/N                   ;Vilaller              ;25552          ;LLEIDA         ;973697060      
+EL PONT DE SUERT          ;C/ CANALETA, S/N                       ;Pont de Suert, El     ;25520          ;LLEIDA         ;973691159      
+LLESP                     ;C/ ÚNIC, S/N                           ;Pont de Suert, El     ;25526          ;LLEIDA         ;973690005      
+MALPÀS                    ;C/ ÚNIC, S/N                           ;Pont de Suert, El     ;25520          ;LLEIDA         ;973690005      
+BARRUERA                  ;C/ SANFELIU, S/N                       ;Vall de Boí, La       ;25527          ;LLEIDA         ;973694025      
+BOÍ                       ;PL. DEL TREIO, Nº 3                    ;Vall de Boí, La       ;25528          ;LLEIDA         ;973694018      
+DURRO                     ;PL. DE L'ESTUDI, S/N                   ;Vall de Boí, La       ;25527          ;LLEIDA         ;973694169      
+ERILL LA VALL             ;PL. DE DALT, Nº 4                      ;Vall de Boí, La       ;25528          ;LLEIDA         ;973696391      
+TAÜLL                     ;PL. SANT MARTÍ, S/N                    ;Vall de Boí, La       ;25528          ;LLEIDA         ;973696390      
+VILAMÒS                   ;PL. MAJOR, Nº 4                        ;Vilamòs               ;25551          ;LLEIDA         ;973648211      
+CANEJAN                   ;PL. AJUNTAMENT, Nº 1                   ;Canejan               ;25548          ;LLEIDA         ;973648229      
+BOSSÒST                   ;C/ PIETAT, Nº 92                       ;Bossòst               ;25550          ;LLEIDA         ;973648211      
+VIELHA                    ;C/ ESPITAU, S/N                        ;Vielha e Mijaran      ;25530          ;LLEIDA         ;973643140      
+ARRES                     ;C/ ESCOLES, S/N                        ;Arres                 ;25551          ;LLEIDA         ;973642694      
+ES BÒRDES                 ;PL. JARDÍ, Nº 2                        ;Bòrdes, Es            ;25551          ;LLEIDA         ;973642039      
+BAUSEN                    ;C/ SANT ANTONI, Nº 7                   ;Bausen                ;25549          ;LLEIDA         ;973648229      
+SALARDÚ                   ;C/ BALMES, Nº 2                        ;Naut Aran             ;25598          ;LLEIDA         ;973645818      
+ARTIES                    ;PL. URTAU, Nº 1                        ;Naut Aran             ;25599          ;LLEIDA         ;973642847      
+LES                       ;PL. ESGLÉSIA, Nº 9                     ;Les                   ;25540          ;LLEIDA         ;973648229      
+PRULLANS                  ;C/ PUIG, Nº 1                          ;Prullans              ;25727          ;LLEIDA         ;973510255      
+BELLVER DE CERDANYA       ;AV. PERE SICART, Nº 1. TORRE DE SANT JO;Bellver de Cerdanya   ;25720          ;LLEIDA         ;973510315      
+PRATS I SANSOR            ;C/ ÚNIC, S/N                           ;Prats i Sansor        ;25721          ;LLEIDA         ;972890594      
+POBLA DE SEGUR            ;C/ DE LES ESGRASES, Nº 2               ;Pobla de Segur, La    ;25500          ;LLEIDA         ;973681323      
+SALÀS DE PALLARS          ;CTRA. PONT DE SUERT, S/N               ;Salàs de Pallars      ;25693          ;LLEIDA         ;973676163      
+SENTERADA                 ;PL. ESCOLES, S/N                       ;Senterada             ;25514          ;LLEIDA         ;973661779      
+ESPUI                     ;C/ ÚNIC, S/N                           ;Torre de Cabdella, La ;25515          ;LLEIDA         ;973663070      
+LA POBLETA DE BELLVEÍ     ;C/ ÚNIC, S/N                           ;Torre de Cabdella, La ;25515          ;LLEIDA         ;973661801      
+ESPOT                     ;C/ ÚNIC, S/N                           ;Espot                 ;25597          ;LLEIDA         ;973624004      
+SORT                      ;CAMÍ DE LA CABANERA, Nº 1              ;Sort                  ;25560          ;LLEIDA         ;973621465      
+TAVASCAN                  ;C/ MAJOR, S/N                          ;Lladorre              ;25577          ;LLEIDA         ;973623098      
+LLADORRE                  ;C/ MAJOR, Nº 5                         ;Lladorre              ;25576          ;LLEIDA         ;973623283      
+LLAVORSÍ                  ;CTRA. VAL D'ARAN, Nº 31                ;Llavorsí              ;25595          ;LLEIDA         ;973622152      
+ESTERRI D'ÀNEU            ;C/ CARRERADA, Nº 5                     ;Esterri d'Àneu        ;25580          ;LLEIDA         ;973626060      
+NUCLI DE VALÈNCIA D'ÀNEU  ;AVDA. PORT DE LA BONAIGUA, Nº 9        ;Alt Àneu              ;25587          ;LLEIDA         ;973626038      
+AINET DE BESAN            ;C/ ÚNIC, S/N                           ;Alins                 ;25573          ;LLEIDA         ;973624334      
+ALINS                     ;PL. MAJOR, S/N                         ;Alins                 ;25574          ;LLEIDA         ;973624385      
+ARAÓS                     ;C/ ÚNIC, S/N                           ;Alins                 ;25573          ;LLEIDA         ;973624318      
+ÀREU                      ;C/ ÚNIC, S/N                           ;Alins                 ;25575          ;LLEIDA         ;973624405      
+MONTCORTÉS                ;C/ ÚNIC, S/N                           ;Baix Pallars          ;25590          ;LLEIDA         ;973621465      
+GERRI DE LA SAL           ;C/ SANT SEBASTIÓ, S/N                  ;Baix Pallars          ;25590          ;LLEIDA         ;973662008      
+PERAMEA                   ;C/ SANT CRISÒFOL, S/N                  ;Baix Pallars          ;25591          ;LLEIDA         ;973662058      
+TÍRVIA                    ;C/ MAJOR, S/N                          ;Tírvia                ;25595          ;LLEIDA         ;973622074      
+RIALP                     ;C/ ÚNIC,S/N                            ;Rialp                 ;25594          ;LLEIDA         ;973621456      
+LA GUINGUETA              ;CTRA. VAL D'ARAN, S/N                  ;Guingueta d'Àneu, La  ;25597          ;LLEIDA         ;973626555      
+RIBERA DE CARDÓS          ;C/ ÚNIC, S/N                           ;Vall de Cardós        ;25570          ;LLEIDA         ;973623265      
+FIGUEROLA D'ORCAU         ;C/ DEL VENT, S/N                       ;Isona i Conca Dellà   ;25655          ;LLEIDA         ;973665033      
+ORCAU                     ;C/ PORTALET, S/N                       ;Isona i Conca Dellà   ;25650          ;LLEIDA         ;973664098      
+TREMP                     ;C/ FRANCESC MACIÀ, Nº 14               ;Tremp                 ;25620          ;LLEIDA         ;973650110      
+GUÀRDIA DE TREMP          ;C/ CARME, Nº 47                        ;Tremp                 ;25632          ;LLEIDA         ;973651795      
+PALAU DE NOGUERA          ;C/ DEL FORN, S/N                       ;Tremp                 ;25633          ;LLEIDA         ;973057044      
+PUIGCERCÓS                ;PL. MAJOR, S/N                         ;Tremp                 ;25633          ;LLEIDA         ;973085001      
+LLIMIANA                  ;PL. MAJOR, Nº 1                        ;Llimiana              ;25639          ;LLEIDA         ;973650773      
+VILAMITJANA               ;PL. MATIAS CAVALER, S/N                ;Tremp                 ;25654          ;LLEIDA         ;973652626      
+SANT ROMÀ D'ABELLA        ;C/ ESCOLES, S/N                        ;Isona i Conca Dellà   ;25656          ;LLEIDA         ;973085033      
+TALARN                    ;C/ RAVAL, S/N                          ;Talarn                ;25630          ;LLEIDA         ;973650812      
+ISONA                     ;C/ SOLEDAD, Nº 26                      ;Isona i Conca Dellà   ;25650          ;LLEIDA         ;973664105      
+SANT SALVADOR DE TOLÓ     ;C/ ÚNIC, S/N                           ;Gavet de la Conca     ;25638          ;LLEIDA         ;973664100      
+CONQUES                   ;C/ SANT PERE, S/N                      ;Isona i Conca Dellà   ;25656          ;LLEIDA         ;973085013      
+SUTERRANYA                ;C/ ESCOLA PÚBLICA, S/N                 ;Tremp                 ;25620          ;LLEIDA         ;973057050      
+CABANYES (LES)            ;CTRA. DE GUARDIOLA, S/N                ;Cabanyes, Les         ;8794           ;BARCELONA      ;938923858      
+SANT MARTÍ SARROCA        ;RAMBLA CATALUNYA, S/N                  ;Sant Martí Sarroca    ;8731           ;BARCELONA      ;938991380      
+LES GUNYOLES              ;PL. DE L'ESGLÉSIA - CAL CANDI          ;Avinyonet del Penedès ;8793           ;BARCELONA      ;-              
+LA MÚNIA                  ;C/ ANSELM CLAVÉ, Nº 11                 ;Castellví de la Marca ;8732           ;BARCELONA      ;938919075      
+GUARDIOLA DE FONT-RUBÍ    ;PL. DE L'AJUNTAMENT, Nº 1              ;Font-rubí             ;8736           ;BARCELONA      ;938979261      
+SANT CUGAT SESGARRIGUES   ;C/ MILÀ I FONTANALS, Nº 27             ;Sant Cugat Sesgarrigue;8798           ;BARCELONA      ;938970363      
+SANT PERE MOLANTA         ;C/ MILÀ I FONTANALS, S/N               ;Olèrdola              ;8799           ;BARCELONA      ;938920749      
+SANT MIQUEL D'OLÈRDOLA    ;AVDA. CATALUNYA, Nº 12                 ;Olèrdola              ;8734           ;BARCELONA      ;938903502      
+MOJA                      ;C/ LA CARRERADA, Nº 12                 ;Olèrdola              ;8734           ;BARCELONA      ;938170363      
+PLA DEL PENEDÈS (EL)      ;PL. PAU FONTANALS, Nº 1                ;Pla del Penedès, El   ;8733           ;BARCELONA      ;938989069      
+PUIGDÀLBER                ;PL. DE LA VILA, Nº 1                   ;Puigdàlber            ;8797           ;BARCELONA      ;938989061      
+VILOBÍ DEL PENEDÈS        ;C/ TORRENT, Nº 3                       ;Vilobí del Penedès    ;8735           ;BARCELONA      ;938978387      
+SANTA FE DEL PENEDÈS      ;C/ DE L'HORTA, Nº 1                    ;Santa Fe del Penedès  ;8792           ;BARCELONA      ;938974607      
+SANTA MARGARIDA I ELS MONJ;PG. FLUVIAL, S/N                       ;Santa Margarida i els ;8730           ;BARCELONA      ;938186748      
+LA RÀPITA                 ;PL. RAMON CABRÉ, S/N                   ;Santa Margarida i els ;8730           ;BARCELONA      ;938983769      
+ISIDRE BAGES              ;PL. ATENEU, Nº 4                       ;Subirats              ;8739           ;BARCELONA      ;938179086      
+LAVERN                    ;C/ DE LES ESCOLES, Nº 3                ;Subirats              ;8739           ;BARCELONA      ;938994262      
+SANT PAU D'ORDAL          ;C/ PONENT, Nº 13                       ;Subirats              ;8739           ;BARCELONA      ;938993361      
+TORRELLES DE FOIX         ;C/ RONDA, Nº 2                         ;Torrelles de Foix     ;8737           ;BARCELONA      ;938971556      
+LA GRANADA                ;C/ SANT CRISTÒFOL, Nº 20               ;Granada, La           ;8792           ;BARCELONA      ;938975123      
+OLESA DE BONESVALLS       ;C/ L'ANTIGUA, S/N                      ;Olesa de Bonesvalls   ;8795           ;BARCELONA      ;938984308      
+PACS DEL PENEDÈS          ;C/ DE LES ESCOLES, Nº 19               ;Pacs del Penedès      ;8796           ;BARCELONA      ;938264031      
+PONTONS                   ;PL. DE LA VILA, S/N                    ;Pontons               ;8738           ;BARCELONA      ;938987028      
+AVINYÓ NOU                ;PL. DE LA VILA, Nº 1                   ;Avinyonet del Penedès ;8793           ;BARCELONA      ;938970829      
+ABRERA                    ;C/ MANRESA, Nº 15                      ;Abrera                ;8630           ;BARCELONA      ;937702561      
+CAN VILALBA               ;AVDA. CIRCUNVALACIÓ, Nº 5              ;Abrera                ;8630           ;BARCELONA      ;937704939      
+SANTA MARIA DE VILALBA    ;CAMÍ CASTELL VOLTRERA, Nº 5            ;Abrera                ;8630           ;BARCELONA      ;937701738      
+LLINARS DEL VALLÈS        ;C/ FREDERIC MARÈS, S/N                 ;Llinars del Vallès    ;8450           ;BARCELONA      ;938410573      
+SANT ANTONI DE VILAMAJOR  ;C/ SANTA ANNA, Nº 4-6                  ;Sant Antoni de Vilamaj;8459           ;BARCELONA      ;938452327      
+SANT PERE DE VILAMAJOR    ;C/ NOU, Nº 26                          ;Sant Pere de Vilamajor;8458           ;BARCELONA      ;938452625      
+ARENYS DE MAR             ;AV. D'AUTERIVE, S/N                    ;Arenys de Mar         ;8350           ;BARCELONA      ;937958074      
+ARENYS DE MUNT            ;AV. DEL REMEI, S/N                     ;Arenys de Munt        ;8358           ;BARCELONA      ;937951523      
+CAN MASSUET               ;AV. EL FAR, Nº 10                      ;Dosrius               ;8319           ;BARCELONA      ;937916173      
+DOSRIUSCENTRE             ;C/ PAU CASALS, Nº 20                   ;Dosrius               ;8319           ;BARCELONA      ;937919084      
+CANYAMARS                 ;C/ MAJOR, Nº 7                         ;Dosrius               ;8319           ;BARCELONA      ;937955224      
+SANT MIQUEL DEL CROS      ;AV. MEDITERRANI, S/N                   ;Argentona             ;8310           ;BARCELONA      ;937574990      
+ÒRRIUS                    ;CTRA. DE LA ROCA, Nº 2                 ;Òrrius                ;8317           ;BARCELONA      ;937561092      
+DR. GONÇAL CALVO I QUERALT;C/ JOAN FUSTÉ ORTELLS, Nº 1            ;Argentona             ;8310           ;BARCELONA      ;937561092      
+MARTÍ I JULIÀ             ;C/ MARTÍ I JULIÀ, Nº 11-19             ;Badalona              ;8911           ;BARCELONA      ;931671840      
+MORERA POMAR              ;C/ PERE III, Nº 1-7                    ;Badalona              ;8915           ;BARCELONA      ;934628200      
+DOCTOR ROBERT             ;PL. DE LA MEDICINA, S/N                ;Badalona              ;8911           ;BARCELONA      ;933842425      
+PROGRÈS-RAVAL             ;C/ GENERAL WEYLER, Nº 44               ;Badalona              ;8912           ;BARCELONA      ;933890695      
+SANT ROC - EL GORG        ;C/ VÉLEZ RUBIO, S/N . CANTONADA AMB MOT;Badalona              ;8913           ;BARCELONA      ;902111444      
+LLEFIÀ                    ;CTRA. ANTIGA DE VALÈNCIA, S/N          ;Badalona              ;8913           ;BARCELONA      ;933991460      
+GRAN SOL                  ;AVDA. DOCTOR BASSOLS, Nº 112 - 130     ;Badalona              ;08914          ;BARCELONA      ;936247929      
+LA SALUT                  ;PG. ENCANTS, S/N                       ;Badalona              ;8914           ;BARCELONA      ;934607900      
+NOVA LLOREDA              ;AV. CATALUNYA, Nº 62-64                ;Badalona              ;8917           ;BARCELONA      ;934603900      
+APENINS-MONTIGALÓ         ;C/ APENINS, S/N                        ;Badalona              ;8917           ;BARCELONA      ;933951779      
+BUFALÀ - CANYET           ;AV. MARTÍ I PUJOL, Nº 521-527          ;Badalona              ;8915           ;BARCELONA      ;934970505      
+BARBERÀ DEL VALLÈS        ;C/ VERGE DE L'ASSUMPCIÓ, S/N           ;Barberà del Vallès    ;8210           ;BARCELONA      ;937192540      
+ROSA DELS VENTS           ;PL. ROSA DELS VENTS, S/N               ;Barberà del Vallès    ;8210           ;BARCELONA      ;937194281      
+BARCELONETA               ;PG. MARÍTIM, Nº 25.  HOSPITAL DEL MAR, ;Barcelona             ;8003           ;BARCELONA      ;932213783      
+CASC ANTIC                ;C/ REC COMTAL, Nº 24                   ;Barcelona             ;8003           ;BARCELONA      ;933101421      
+GÒTIC                     ;PASSATGE DE LA PAU, Nº 1               ;Barcelona             ;8002           ;BARCELONA      ;933436140      
+DRASSANES                 ;AV. DE LES DRASSANES, Nº 17-21         ;Barcelona             ;8001           ;BARCELONA      ;933294495      
+PERACAMPS                 ;AVDA. DE LES DRASSANES, Nº 13 - 15     ;Barcelona             ;8001           ;BARCELONA      ;934410600      
+DOCTOR LLUÍS SAYÉ         ;C/ TORRES I AMAT, Nº 8                 ;Barcelona             ;8001           ;BARCELONA      ;933012532      
+VILA OLÍMPICA             ;C/ JOAN MIRÓ, Nº 17                    ;Barcelona             ;8005           ;BARCELONA      ;932213785      
+RAMON TURRÓ               ;C/ RAMON TURRÓ, Nº 337-339             ;Barcelona             ;8005           ;BARCELONA      ;934465700      
+POBLENOU                  ;C/ LOPE DE VEGA, Nº 138                ;Barcelona             ;8005           ;BARCELONA      ;934337710      
+BESÒS                     ;C/ ALFONS EL MAGNÀNIM, Nº 57           ;Barcelona             ;8019           ;BARCELONA      ;932788235      
+EL CLOT                   ;C/ CONCILIO DE TRRENTO, Nº 25          ;Barcelona             ;8018           ;BARCELONA      ;933037301      
+LA PAU                    ;C/ PERE VERGÉS, Nº 3                   ;Barcelona             ;8020           ;BARCELONA      ;932788660      
+SANT MARTÍ                ;PL. DE LA INFANCIA, S/N .CANTONADA FLUV;Barcelona             ;8020           ;BARCELONA      ;933070812      
+COMTE BORRELL             ;COMTE BORRELL, Nº 305                  ;Barcelona             ;8036           ;BARCELONA      ;932271800      
+EIXAMPLE                  ;C/ ROSSELLÓ, Nº 161                    ;Barcelona             ;8036           ;BARCELONA      ;932279800      
+MANSO                     ;C/ MANSO, Nº 19                        ;Barcelona             ;8015           ;BARCELONA      ;935517283      
+ROGER DE FLOR             ;C/ ROGER DE FLOR, Nº 194 - 196         ;Barcelona             ;8013           ;BARCELONA      ;902500179      
+PASSEIG DE SANT JOAN      ;PG. DE SANT JOAN, Nº 20                ;Barcelona             ;8010           ;BARCELONA      ;933270550      
+CARLES I                  ;C/ MARINA, Nº 168                      ;Barcelona             ;8013           ;BARCELONA      ;932317705      
+SAGRADA FAMÍLIA           ;C/ CÒRSEGA, Nº 643                     ;Barcelona             ;8025           ;BARCELONA      ;935072580      
+DOCTOR CARLES RIBAS       ;C/ FOC, S/N                            ;Barcelona             ;8038           ;BARCELONA      ;932232888      
+BORDETA - MAGÒRIA         ;C/ CORRAL, S/N                         ;Barcelona             ;8014           ;BARCELONA      ;934316570      
+SANTS                     ;C/ VAPOR VELL, Nº 44-46                ;Barcelona             ;8028           ;BARCELONA      ;934915197      
+CARRERAS CANDI            ;C/ CARRERAS CANDI, Nº 99-101           ;Barcelona             ;8014           ;BARCELONA      ;934321689      
+NUMANCIA                  ;C/ NUMÀNCIA, Nº 23                     ;Barcelona             ;8029           ;BARCELONA      ;934955886      
+LA MARINA                 ;C/ AMNISTIA INTERNACIONAL, Nº 8-14     ;Barcelona             ;8038           ;BARCELONA      ;934955885      
+POBLE SEC - LES HORTES    ;C/ NOU DE RAMBLA, Nº 177               ;Barcelona             ;8004           ;BARCELONA      ;933249100      
+MONTNEGRE                 ;C/ MONTNEGRE, Nº 21                    ;Barcelona             ;8029           ;BARCELONA      ;933632965      
+CASANOVA                  ;C/ DEL ROSSELLÓ, Nº 161                ;Barcelona             ;8036           ;BARCELONA      ;932279800      
+LES CORTS                 ;C/ MEJIA LEQUERICA, S/N .EDIFICI HELIOS;Barcelona             ;8029           ;BARCELONA      ;932275590      
+SARRIÀ                    ;C/ VIA AUGUSTA, Nº 366                 ;Barcelona             ;8017           ;BARCELONA      ;932042288      
+LES PLANES                ;PG.SOLÉ, Nº 16-18 LOCAL 1              ;Sant Cugat del Vallès ;8196           ;BARCELONA      ;932805632      
+VALLVIDRERA               ;C/ REIS CATÒLICS, Nº 2                 ;Barcelona             ;8017           ;BARCELONA      ;934068453      
+ADRIÀ                     ;C/ VALLMAJOR, Nº 34                    ;Barcelona             ;8006           ;BARCELONA      ;934955885      
+PARE CLARET               ;C/ ST. ANTONI Mª. CLARET, Nº 19-23     ;Barcelona             ;8037           ;BARCELONA      ;932082384      
+VALLCARCA - SANT GERVASI  ;EDIFICI PEDRAFORCA, AVDA. VALLCARCA, Nº;Barcelona             ;8023           ;BARCELONA      ;932594422      
+LARRARD                   ;TRAVESSERA DE DALT, Nº 79              ;Barcelona             ;8024           ;BARCELONA      ;902011040      
+SANLLEHY                  ;AV. MARE DE DÉU DE MONTSERRAT, Nº 16-18;Barcelona             ;8024           ;BARCELONA      ;932853794      
+SARDENYA                  ;C/ SARDENYA, Nº 466                    ;Barcelona             ;8025           ;BARCELONA      ;935674380      
+EL CARMEL                 ;C/ MURTRA, Nº 130                      ;Barcelona             ;8032           ;BARCELONA      ;933571853      
+SANT RAFAEL               ;PG. DE LA VALL D'HEBRON, Nº 107-117    ;Barcelona             ;8035           ;BARCELONA      ;934289541      
+HORTA                     ;C/ LISBOA, S/N                         ;Barcelona             ;8035           ;BARCELONA      ;934072768      
+GUINARDÓ                  ;C/ TEODOR LLORENTE, Nº 26              ;Barcelona             ;08041          ;BARCELONA      ;933489901      
+GUINEUETA                 ;PG. DE VALLDAURA, Nº 135               ;Barcelona             ;8042           ;BARCELONA      ;932749534      
+ROQUETES                  ;C/ GARIGLIANO, Nº 23-27                ;Barcelona             ;8042           ;BARCELONA      ;932768068      
+CIUTAT MERIDIANA          ;C/ SANT FELIU DE CODINES, S/N          ;Barcelona             ;8033           ;BARCELONA      ;933508889      
+CHAFARINAS                ;C/ CHAFARINAS, Nº 2-8                  ;Barcelona             ;8033           ;BARCELONA      ;933542222      
+CENTRE INTEGRAL DE SALUT C;AVDA. BORBÓ, Nº 18 - 30                ;Barcelona             ;8016           ;BARCELONA      ;932438989      
+TURÓ                      ;C/ CADÍ, Nº 58-62 A                    ;Barcelona             ;8031           ;BARCELONA      ;934074055      
+RÍO DE JANEIRO            ;AV. RÍO DE JANEIRO, Nº 83-91           ;Barcelona             ;8016           ;BARCELONA      ;932769900      
+LA SAGRERA                ;C/ GARCILASO, Nº 1-9                   ;Barcelona             ;8027           ;BARCELONA      ;933406398      
+BON PASTOR                ;C/ MOLLERUSSA, S/N                     ;Barcelona             ;8030           ;BARCELONA      ;933458791      
+TRINITAT VELLA            ;VIA BARCINO, Nº 88                     ;Barcelona             ;8033           ;BARCELONA      ;932741909      
+PASSEIG DE MARAGALL       ;PG. DE MARAGALL, Nº 52-54              ;Barcelona             ;8041           ;BARCELONA      ;934462952      
+SANT ANDREU               ;AVDA. DE LA MERIDIANA, Nº 428          ;Barcelona             ;8030           ;BARCELONA      ;932745490      
+CASERNES                  ;C/ FERNANDO PESSOA, Nº 47 - 51         ;Barcelona             ;08030          ;BARCELONA      ;932747955      
+POU TORRE                 ;C/ FERRAN MUÑOZ, Nº 1                  ;Begues                ;8859           ;BARCELONA      ;936392356      
+JOAN MIRAMBELL I FOLCH DE ;AV. FONTCUBERTA, Nº 128                ;Caldes de Montbui     ;8140           ;BARCELONA      ;938654125      
+SANT FELIU DE CODINES     ;C/ FONT DEL TERME, Nº 3                ;Sant Feliu de Codines ;8182           ;BARCELONA      ;938662911      
+CÀNOVES I SAMALÚS         ;C/ PLA DE LA RECTORIA, S/N             ;Cànoves i Samalús     ;8445           ;BARCELONA      ;938710250      
+CAN CARDEDEU              ;C/ BALMÈS, Nº 51                       ;Cardedeu              ;08440          ;BARCELONA      ;938713790      
+SANT LLORENÇ SAVALL       ;C/ VIC, Nº 19                          ;Sant Llorenç Savall   ;8212           ;BARCELONA      ;937140238      
+CASTELLAR DEL VALLÈS      ;C/ RIPOLLET, Nº 30                     ;Castellar del Vallès  ;8211           ;BARCELONA      ;937471111      
+EL CASTELL                ;C/ GUILLERMO MARCONI, Nº 1             ;Castelldefels         ;8860           ;BARCELONA      ;936366660      
+CAN BOU                   ;AV. CIUTAT DE MÓLAGA, Nº 18-20         ;Castelldefels         ;8860           ;BARCELONA      ;936655659      
+SERRAPARERA               ;AV. DIAGONAL, S/N                      ;Cerdanyola del Vallès ;8290           ;BARCELONA      ;935806363      
+FONTETES                  ;PL. VELÀZQUEZ PINEDA, S/N              ;Cerdanyola del Vallès ;8290           ;BARCELONA      ;935944470      
+CANALETES                 ;PASSEIG D'HORTA, Nº 17                 ;Cerdanyola del Vallès ;8290           ;BARCELONA      ;935910740      
+LA FARIGOLA               ;CTRA. BARCELONA, Nº 147 - 149          ;Cerdanyola del Vallès ;8290           ;BARCELONA      ;936919589      
+RIPOLLET                  ;C/ CASANOVAS, Nº 4                     ;Ripollet              ;8291           ;BARCELONA      ;935946420      
+PINETONS                  ;AVDA. CATALUNYA, Nº 18                 ;Ripollet              ;8291           ;BARCELONA      ;965946537      
+BADIA DEL VALLÈS          ;C/ BÈTICA, S/N                         ;Badia del Vallès      ;8214           ;BARCELONA      ;937192600      
+CORBERA DE LLOBREGAT      ;C/ BUENOS AIRES, Nº 9                  ;Corbera de Llobregat  ;8757           ;BARCELONA      ;936505301      
+LA PALMA DE CERVELLÓ      ;C/ PIRINEU, Nº 7                       ;Palma de Cervelló, La ;8756           ;BARCELONA      ;936720805      
+ALAMEDA                   ;PL. ALAMEDA VELLA, S/N                 ;Cornellà de Llobregat ;8940           ;BARCELONA      ;934709379      
+FONTSANTA                 ;PL. GANDESA, S/N                       ;Cornellà de Llobregat ;8940           ;BARCELONA      ;934744002      
+DR. MARTÍ I JULIÀ         ;AV. BAIX LLOBREGAT, Nº 17              ;Cornellà de Llobregat ;8940           ;BARCELONA      ;934751290      
+SANT ILDEFONS             ;AV. DE LA REPÚBLICA ARGENTINA, S/N     ;Cornellà de Llobregat ;8940           ;BARCELONA      ;934712000      
+CORNELLÀ DE LLOBREGAT     ;C/ BELLATERRA, Nº 41                   ;Cornellà de Llobregat ;8940           ;BARCELONA      ;933768250      
+CAN MORITZ                ;C/ MOSSÈN ANDREU, Nº 13                ;Cornellà de Llobregat ;8940           ;BARCELONA      ;934714512      
+CUBELLES                  ;C/ MOSSÈN MIQUEL CORTÍ, S/N            ;Cubelles              ;8880           ;BARCELONA      ;938957906      
+MASNOU (EL)               ;C/ SANT MIQUEL, Nº 125                 ;Masnou, El            ;8320           ;BARCELONA      ;935557411      
+ALELLA                    ;C/ DR. MAS DE XAXARS, Nº 10            ;Alella                ;8328           ;BARCELONA      ;935550354      
+RAMONA VIA                ;AV. MONTSERRAT, Nº 24                  ;Prat de Llobregat, El ;8820           ;BARCELONA      ;933704101      
+17 DE SETEMBRE            ;C/ EMPÚRIES, S/N                       ;Prat de Llobregat, El ;8820           ;BARCELONA      ;933795422      
+DOCTOR PUJOL ISADA        ;C/ RIU ANOIA, Nº 19                    ;Prat de Llobregat, El ;8820           ;BARCELONA      ;934791670      
+COLLBATÓ                  ;C/ BONAVISTA, Nº 2                     ;Collbató              ;8923           ;BARCELONA      ;937710131      
+EL BRUC                   ;C/ BRUC DEL MIG, Nº 23                 ;Bruc, El              ;8194           ;BARCELONA      ;937770759      
+ESPARREGUERA              ;VIA DEL MILLENARI, Nº 16               ;Esparreguera          ;8292           ;BARCELONA      ;937708100      
+PUBILLA CASAS - BÒBILA    ;PL. DE LA BÒBILA, S/N                  ;Esplugues de Llobregat;8950           ;BARCELONA      ;934733102      
+LLUÍS MILLET              ;C/ LLUÍS MILLET, Nº 2-4                ;Esplugues de Llobregat;8950           ;BARCELONA      ;934700297      
+SANT PERE DE RIBES        ;C/ ANTONI M. CLARET, Nº 3-5            ;Sant Pere de Ribes    ;8810           ;BARCELONA      ;938962686      
+CANYELLES                 ;C/ ROMANGUÉ, S/N                       ;Canyelles             ;08811          ;BARCELONA      ;938973151      
+OLIVELLA                  ;C/ AQUARI, S/N                         ;Sant Pere de Ribes    ;8810           ;BARCELONA      ;938968092      
+ROQUETES                  ;AVDA. DE CATALUNYA, Nº 9               ;Sant Pere de Ribes    ;8812           ;BARCELONA      ;938145182      
+GAVÀ 1                    ;C/ RIERA DE SANT LLORENÇ, S/N          ;Gavà                  ;8850           ;BARCELONA      ;936383200      
+DR. BARTOLOMEU FABRÉS ANGL;C/ RIERA DE LES PARETS, Nº 7           ;Gavà                  ;8850           ;BARCELONA      ;936383320      
+CANOVELLES                ;C/ INDÚSTRIA, Nº 23                    ;Canovelles            ;8420           ;BARCELONA      ;938468328      
+CORRÓ D'AVALL             ;PLAÇA DE L'AJUNTAMENT, S/N             ;Franqueses del Vallès,;8520           ;BARCELONA      ;938404200      
+LES FRANQUESES DEL VALLÈS ;C/GIRONA, Nº 290                       ;Franqueses del Vallès,;8520           ;BARCELONA      ;938618030      
+VALLÈS ORIENTAL           ;C/ MUSEU, Nº 19                        ;Granollers            ;8401           ;BARCELONA      ;938600522      
+SANT MIQUEL               ;AV. FRANCESC MACIA, Nº 154             ;Granollers            ;8401           ;BARCELONA      ;938791625      
+L'AMETLLA DEL VALLÈS      ;PG. DE L'AMETLLA, Nº 17                ;Ametlla del Vallès, L';8480           ;BARCELONA      ;938457246      
+AIGUAFREDA                ;CTRA. DE RIBES, Nº 10                  ;Aiguafreda            ;8591           ;BARCELONA      ;938441026      
+LA GARRIGA                ;C/ TORRENT DE LA SÍNIA, Nº 7           ;Garriga, La           ;8530           ;BARCELONA      ;938605897      
+FIGARÓ-MONTMANY           ;CTRA. DE RIBES, Nº 37                  ;Figaró-Montmany       ;8590           ;BARCELONA      ;938429256      
+LA LLAGOSTA               ;C/ VIC, S/N                            ;Llagosta, La          ;8120           ;BARCELONA      ;935749810      
+LA TORRETA                ;C/ JOSEP TORELLÓ, S/N                  ;Roca del Vallès, La   ;8430           ;BARCELONA      ;938603200      
+DOCTOR VICENÇ PAPACEIT    ;PLAÇA DE L'ERA, S/N                    ;Roca del Vallès, La   ;8430           ;BARCELONA      ;938424432      
+SANTA AGNÈS DE MALANYANES ;C/ JAUME BALMES, S/N                   ;Roca del Vallès, La   ;8430           ;BARCELONA      ;938424663      
+JUST OLIVERAS             ;RBLA. JUST OLIVERAS, Nº 50             ;Hospitalet de Llobrega;8901           ;BARCELONA      ;932610033      
+SANFELIÚ                  ;C/ EMIGRANT, Nº 21 - 25                ;Hospitalet de Llobrega;8906           ;BARCELONA      ;932610908      
+CAN SERRA                 ;AV. DE CAN SERRA, Nº 96                ;Hospitalet de Llobrega;8906           ;BARCELONA      ;934371568      
+GORNAL                    ;AV. DE CARMEN AMAYA, Nº 37-39          ;Hospitalet de Llobrega;8902           ;BARCELONA      ;933365114      
+BELLVITGE                 ;CARRER DE L'ERMITA, S/N                ;Hospitalet de Llobrega;8907           ;BARCELONA      ;933369678      
+RAMBLA MARINA             ;RAMBLA MARINA, Nº 264-280              ;Hospitalet de Llobrega;8907           ;BARCELONA      ;932643840      
+PURA FERNÀNDEZ            ;C/ COBALT, Nº 135 - 137                ;Hospitalet de Llobrega;8905           ;BARCELONA      ;932601926      
+COLLBLANC                 ;C/ CREU ROJA, Nº 18                    ;Hospitalet de Llobrega;8904           ;BARCELONA      ;934470780      
+RONDA DE LA TORRASSA      ;RDA. DE LA TORRASSA, Nº 151-153        ;Hospitalet de Llobrega;8903           ;BARCELONA      ;934470720      
+MOSSÈN CINTO VERDAGUER    ;C/ MN. J. VERDAGUER, Nº 4 - 6          ;Hospitalet de Llobrega;8902           ;BARCELONA      ;934329572      
+AMADEU TORNER             ;C/ AMADEU TORNER, Nº 63                ;Hospitalet de Llobrega;8902           ;BARCELONA      ;933369744      
+FLORIDA NORD Y SUD        ;C/ PARC DELS OCELLETS, S/N             ;Hospitalet de Llobrega;08905          ;BARCELONA      ;934471080      
+MARTORELL                 ;AV. MANCOMUNITATS COMARCALS, Nº 9      ;Martorell             ;8760           ;BARCELONA      ;937751965      
+TORRENT DELS LLOPS        ;C/ PUIG DEL RAVELL, Nº 10              ;Martorell             ;8760           ;BARCELONA      ;937736758      
+MARTORELLVILA             ;C/ LLOSELLES, Nº 66                    ;Martorell             ;8760           ;BARCELONA      ;937751951      
+LA BEGUDA ALTA            ;PLA DELS OCELLS, S/N                   ;Masquefa              ;8791           ;BARCELONA      ;937725262      
+SANT LLORENÇ D'HORTONS    ;CATALUNYA, Nº 25                       ;Sant Llorenç d'Hortons;8791           ;BARCELONA      ;937717111      
+MASQUEFA                  ;AVDA. CATALUNYA, Nº 3 - 5              ;Masquefa              ;8783           ;BARCELONA      ;937726434      
+GELIDA                    ;PG. CIRCINVALACIÓ, Nº 41               ;Gelida                ;8790           ;BARCELONA      ;937792362      
+DR. CARLOS HERRÀIZ        ;PL. DEL POBLE, Nº 1                    ;Castellví de Rosanes  ;8769           ;BARCELONA      ;937736225      
+SANT ESTEVE SESROVIRES    ;CARRER DE LA VILA, Nº 2                ;Sant Esteve Sesrovires;8635           ;BARCELONA      ;937713443      
+SANT FOST DE CAMPSENTELLES;CTRA. DE BADALONA, Nº 99               ;Sant Fost de Campsente;8105           ;BARCELONA      ;935795406      
+LA RIERA DE MATARÓ        ;C/ LA RIERA, Nº 7                      ;Mataró                ;8302           ;BARCELONA      ;937550519      
+MATARÓ-CENTRE             ;C/ CAMÍ RAL, Nº 208-210                ;Mataró                ;8301           ;BARCELONA      ;937555190      
+ROCAFONDA-PALAU           ;RDA. PINTOR RAFAEL ESTRANY, Nº 24      ;Mataró                ;8304           ;BARCELONA      ;937556207      
+CIRERA MOLINS             ;RDA. DE FREDERIC MISTRAL, S/N          ;Mataró                ;8304           ;BARCELONA      ;937575554      
+RONDA CERDANYA            ;C/ VALLÈS, Nº 37                       ;Mataró                ;8303           ;BARCELONA      ;937415785      
+LA LLÀNTIA                ;C/ VERGE DE GUADALUPE, Nº 2            ;Mataró                ;8303           ;BARCELONA      ;937416969      
+MARESME                   ;C/ CAMI DEL MIG, Nº 36                 ;Mataró                ;8303           ;BARCELONA      ;937416073      
+RONDA PRIM                ;RDA. DE PRIM, Nº 35                    ;Mataró                ;8302           ;BARCELONA      ;937550519      
+LA GRANJA                 ;C/ DE LES SÍNIES, Nº 9 - 15            ;Molins de Rei         ;8750           ;BARCELONA      ;936687711      
+EL PAPIOL                 ;C/ GENERALITAT, Nº 7                   ;Papiol, El            ;8754           ;BARCELONA      ;936731535      
+CAN PANTIQUET             ;C/ LLUÍS MILLET, Nº 15                 ;Mollet del Vallès     ;8100           ;BARCELONA      ;935705977      
+PLANA LLEDÓ               ;AV. RÍVOLI, Nº 7                       ;Mollet del Vallès     ;8100           ;BARCELONA      ;935798383      
+MONTCADA I REIXAC         ;PG. DE JAUME I, S/N                    ;Montcada i Reixac     ;8110           ;BARCELONA      ;935750544      
+CAN SANT JOAN             ;C/ TURO N º 40                         ;Montcada i Reixac     ;8110           ;BARCELONA      ;934451890      
+LES INDIANES              ;CAMÍ DE LA FONT FREDA, S/N             ;Montcada i Reixac     ;8110           ;BARCELONA      ;935752601      
+TIANA                     ;C/ FRANCI, S/N .CASA DE LA PUNXA       ;Tiana                 ;8391           ;BARCELONA      ;934651721      
+MONTGAT                   ;C/ SANT ANTONI M. CLARET, S/N          ;Montgat               ;8390           ;BARCELONA      ;934694930      
+MONTORNÈS DEL VALLÈS      ;C/ FEDERICO GARCIA LORCA, Nº 16        ;Montornès del Vallès  ;8170           ;BARCELONA      ;935683537      
+MONTORNÈS DEL VALLÈS      ;C/ CAN PARERA, Nº 7                    ;Montornès del Vallès  ;8170           ;BARCELONA      ;935720303      
+MONTMELÓ                  ;PL. ERNEST LLUCH, Nº 1                 ;Montmeló              ;8160           ;BARCELONA      ;935444440      
+VALLROMANES               ;AV. VILASSAR DE DALT, Nº 6-8           ;Vallromanes           ;8188           ;BARCELONA      ;935729805      
+VILANOVA DEL VALLÈS       ;PL. OVIDI MONTLLOR, Nº 1               ;Vilanova del Vallès   ;8410           ;BARCELONA      ;938458475      
+TEIÀ                      ;PG. DE LA RIERA, Nº 118                ;Teià                  ;8329           ;BARCELONA      ;935401203      
+OCATA                     ;C/ TORRENT DE CAN GAIO, Nº 17          ;Masnou, El            ;8320           ;BARCELONA      ;935407890      
+OLESA DE MONTSERRAT       ;C/ LLUÍS PUIGJANER, Nº 22              ;Olesa de Montserrat   ;8640           ;BARCELONA      ;937784727      
+PALAU-SOLITÀ I PLEGAMANS  ;C/ CAN CORTÈS, Nº 46                   ;Palau-solità i Plegama;08184          ;BARCELONA      ;938649898      
+PALLEJÀ                   ;PL. JACINT VERDAGUER, Nº 5             ;Pallejà               ;8780           ;BARCELONA      ;936630667      
+PARETS DEL VALLÈS         ;AV. DE CATALUNYA, Nº 127-B             ;Parets del Vallès     ;8150           ;BARCELONA      ;935621689      
+POLINYÀ                   ;C/ ONZE DE SETEMBRE, Nº 21             ;Polinyà               ;8213           ;BARCELONA      ;937124722      
+SENTMENAT                 ;PASSEIG DE LA SAGRERA, Nº 17           ;Sentmenat             ;8181           ;BARCELONA      ;937154000      
+BARRI EL REMEI            ;C/ TORRENT CASTELLS, Nº 83             ;Premià de Mar         ;8338           ;BARCELONA      ;937523403      
+BARRI COTET               ;AV. BARCELONA, Nº 14                   ;Premià de Mar         ;8338           ;BARCELONA      ;937524454      
+PREMIÀ DE MAR             ;C/ LA PLAÇA, Nº 93                     ;Premià de Mar         ;8330           ;BARCELONA      ;937547711      
+PREMIÀ DE DALT -NUCLI-    ;CTRA. DE L'ENLLAÇ, Nº 37               ;Premià de Dalt        ;8338           ;BARCELONA      ;937524884      
+MÚTUA RUBÍ                ;C/ PRAT DE LA RIBA, Nº 20-22           ;Rubí                  ;8191           ;BARCELONA      ;935866700      
+CASTELLBISBAL             ;AV. PAU CASALS, Nº 12                  ;Castellbisbal         ;8755           ;BARCELONA      ;937720356      
+ANTÓN DE BORJA            ;C/ INVENTOR EDISON, S/N                ;Rubí                  ;8191           ;BARCELONA      ;935884555      
+SANT GENÍS                ;CARRER MIQUEL MUMANY CAMPDERRÓS, Nº 11 ;Rubí                  ;8191           ;BARCELONA      ;636991729      
+CREU ALTA                 ;CTRA. DE CASTELLAR, Nº 222             ;Sabadell              ;8208           ;BARCELONA      ;937237014      
+CENTRE                    ;PL. JOAN OLIU, Nº 9                    ;Sabadell              ;8201           ;BARCELONA      ;937256585      
+SANT OLEGUER              ;C/ SOL I PADRÍS, Nº 56-60              ;Sabadell              ;8203           ;BARCELONA      ;937464180      
+CA N'ORIAC                ;PG. SANT BERNAT, Nº 22                 ;Sabadell              ;8207           ;BARCELONA      ;937168195      
+NORD                      ;C/ MERCÈ RODOREDA, Nº 24               ;Sabadell              ;8207           ;BARCELONA      ;937247150      
+CONCÒRDIA                 ;PLAZA SAN AGUSTÍ, Nº 4                 ;Sabadell              ;8206           ;BARCELONA      ;937136420      
+CAN RULL                  ;C/ LLUÍS COMPANYS, S/N                 ;Sabadell              ;8206           ;BARCELONA      ;937247920      
+SANT FÈLIX                ;CTRA. DE BARCELONA, Nº 473             ;Sabadell              ;8204           ;BARCELONA      ;937284459      
+GRÀCIA                    ;C/ PERMANYER, Nº 65                    ;Sabadell              ;8205           ;BARCELONA      ;937466087      
+MERINALS                  ;C/ LA PALMA, Nº 93                     ;Sabadell              ;8205           ;BARCELONA      ;937457390      
+SUD                       ;C/ FEIJOO Nº 87                        ;Sabadell              ;8204           ;BARCELONA      ;937205086      
+CREU DE BARBERÀ           ;PL. CASTELAO, Nº 2                     ;Sabadell              ;8203           ;BARCELONA      ;937205453      
+POBLE NOU                 ;C/ DEL REMEI, Nº 1-9                   ;Sabadell              ;8203           ;BARCELONA      ;937269415      
+LA SERRA                  ;PL. CRISTÓBAL RAMOS, Nº 2              ;Sabadell              ;8202           ;BARCELONA      ;937155534      
+DOCTOR BARRAQUER          ;PL. DEL DR. TRUETA, S/N                ;Sant Adrià de Besòs   ;8930           ;BARCELONA      ;933817605      
+LA MINA                   ;C/ MAR, S/N                            ;Sant Adrià de Besòs   ;8930           ;BARCELONA      ;933811593      
+LA SOLANA                 ;C/ SANT FELIP NERI, Nº 18, LOCAL 2     ;Sant Andreu de la Barc;8740           ;BARCELONA      ;936356651      
+SANT ANDREU DE LA BARCA   ;AV. CONSTITUCIÓ, Nº 37                 ;Sant Andreu de la Barc;8740           ;BARCELONA      ;936530099      
+MONTALPARC                ;C/ MEDITERRÓNIA, Nº 4                  ;Sant Vicenç de Montalt;8394           ;BARCELONA      ;937912900      
+CALDES D'ESTRAC           ;PL. DE LA VILA, Nº 1                   ;Caldes d'Estrac       ;8393           ;BARCELONA      ;937913337      
+SANT ANDREU DE LLAVANERES ;PG. DE JAUME BRUTAU, Nº 2              ;Sant Andreu de Llavane;8392           ;BARCELONA      ;937928707      
+SANT VICENÇ DE MONTALT    ;AV. VERGE DE MONTSERRAT, Nº 2          ;Sant Vicenç de Montalt;8394           ;BARCELONA      ;937911109      
+MONTCLAR                  ;C/ PI I MARGALL, Nº 115                ;Sant Boi de Llobregat ;8830           ;BARCELONA      ;936529116      
+MOLÍ NOU                  ;C/ CAMÍ VELL DE LA COLÒNIA, Nº 1 - 3   ;Sant Boi de Llobregat ;8830           ;BARCELONA      ;936543300      
+SANTA COLOMA DE CERVELLÒ  ;C/ JOAN XXIII, Nº 24                   ;Sant Boi de Llobregat ;8690           ;BARCELONA      ;936450845      
+COLONIA GÜELL             ;C/ ARANYÓ, Nº 8                        ;Sant Boi de Llobregat ;8690           ;BARCELONA      ;936402903      
+CAMPS BLANCS              ;PL. D'EUSKADI, S/N                     ;Sant Boi de Llobregat ;8830           ;BARCELONA      ;936529130      
+VINYETS                   ;RDA. SANT RAMON, Nº 187                ;Sant Boi de Llobregat ;8830           ;BARCELONA      ;936525013      
+VALLGORGUINA              ;CTRA. DE MATARÓ, Nº 23                 ;Vallgorguina          ;8471           ;BARCELONA      ;938678787      
+GUALBA                    ;PG. MONTSENY, Nº 61                    ;Gualba                ;8474           ;BARCELONA      ;938487957      
+SANT ESTEVE DE PALAUTORDER;C/ VERGE DEL REMEI, Nº 19              ;Sant Esteve de Palauto;8460           ;BARCELONA      ;938482470      
+SANT CELONI               ;C/ DIPUTACIÓ, Nº 30                    ;Sant Celoni           ;8470           ;BARCELONA      ;938674151      
+LA BATLLORIA              ;C/ MAJOR, Nº 15                        ;Sant Celoni           ;8470           ;BARCELONA      ;938471032      
+SANTA MARIA DE PALAUTORDER;PASSEIG DEL REMEI, Nº 31               ;Santa Maria de Palauto;8460           ;BARCELONA      ;938482536      
+SANT CUGAT DEL VALLÈS     ;C/ MINA, Nº 2                          ;Sant Cugat del Vallès ;8190           ;BARCELONA      ;935891122      
+LA FLORESTA               ;AVDA. PEARSON, Nº 36                   ;Sant Cugat del Vallès ;8198           ;BARCELONA      ;936747615      
+LES PLANES                ;P, DEL COLL DE LA CREU D'EN BAU, Nº 7  ;Sant Cugat del Vallès ;8196           ;BARCELONA      ;935836435      
+VALLDOREIX                ;PG. OLABARRIA, Nº 145                  ;Sant Cugat del Vallès ;8197           ;BARCELONA      ;935837400      
+TURÓ DE CAN MATES         ;CTRA DE VALLVIDRERA, Nº 38             ;Sant Cugat del Vallès ;08198          ;BARCELONA      ;935618080      
+EL PLA                    ;PL. FELIP ALCÀNTARA ARELLANO, Nº 3     ;Sant Feliu de Llobrega;8980           ;BARCELONA      ;936854667      
+RAMBLA                    ;RBLA. DE LA MARQUESA DE CASTELLBELL, Nº;Sant Feliu de Llobrega;8980           ;BARCELONA      ;936662313      
+VERDAGUER                 ;C/ CREU D'EN MUNTANER, S/N             ;Sant Joan Despí       ;8970           ;BARCELONA      ;933735653      
+LES PLANES                ;AV. DE BARCELONA, Nº 62                ;Sant Joan Despí       ;8970           ;BARCELONA      ;934775151      
+SANT JUST DESVERN         ;AV. DE LA INDÚSTRIA, S/N               ;Sant Just Desvern     ;8960           ;BARCELONA      ;934700689      
+SANT QUIRZE DEL VALLÈS    ;AV. EGARA, S/N                         ;Sant Quirze del Vallès;8192           ;BARCELONA      ;937214180      
+TORRELAVIT                ;C/ MOLÍ, Nº 29                         ;Torrelavit            ;8775           ;BARCELONA      ;938995977      
+MEDIONA                   ;C/ DOCTOR TRUETA, Nº 10                ;Mediona               ;8773           ;BARCELONA      ;938985302      
+SANT SADURNÍ D'ANOIA      ;AV. GELIDA, S/N                        ;Sant Sadurní d'Anoia  ;8770           ;BARCELONA      ;938183052      
+SANT QUINTÍ DE MEDIONA    ;C/ JOAN AMADES, Nº 6                   ;Sant Quintí de Mediona;8777           ;BARCELONA      ;938998230      
+CABRERA D'IGUALADA        ;C/ CANALETES, Nº 1                     ;Cabrera d'Anoia       ;8785           ;BARCELONA      ;937749242      
+SANT PERE DE RIUDEBITLLES ;RAMBLA SANT JORDI, Nº 1                ;Sant Pere de Riudebitl;8776           ;BARCELONA      ;938997015      
+TORRELLES DE LLOBREGAT    ;PL. DOCTOR GONZÁLEZ, Nº 1              ;Torrelles de Llobregat;8629           ;BARCELONA      ;936892613      
+VILA VELLA                ;CTRA. DE SANT BOI, S/N                 ;Sant Vicenç dels Horts;8620           ;BARCELONA      ;936724569      
+EL SERRAL DE SANT VIÇENS D;CTRA. DE SANT BOI, Nº 59 - 61          ;Sant Vicenç dels Horts;8620           ;BARCELONA      ;936724859      
+DOCTOR VILASECA (CAN MARIN;C/ SANT CARLES, Nº 79                  ;Santa Coloma de Gramen;8921           ;BARCELONA      ;934628600      
+LLATÍ                     ;C/ PERÚ, Nº 60-62                      ;Santa Coloma de Gramen;8921           ;BARCELONA      ;934685190      
+SINGUERLÍN                ;C/ SANTIAGO RUSIÑOL, Nº 64-68          ;Santa Coloma de Gramen;8924           ;BARCELONA      ;934685800      
+SANTA COLOMA DE GRAMENET  ;C/ MAJOR, Nº 49-53                     ;Santa Coloma de Gramen;8921           ;BARCELONA      ;934662096      
+SANTA ROSA                ;C/ ELCANO, S/N                         ;Santa Coloma de Gramen;8923           ;BARCELONA      ;934665730      
+EL FONDO                  ;C/ MN. J. VERDAGUER, Nº 118            ;Santa Coloma de Gramen;8923           ;BARCELONA      ;934681564      
+LA FLORIDA                ;PASSEIG DE LA FLORIDA Nº 43            ;Santa Perpètua de Mogo;8130           ;BARCELONA      ;935747063      
+SANTA PERPÈTUA DE MOGODA  ;AV. DE MN. JACINTO VERDAGUER, Nº 11    ;Santa Perpètua de Mogo;8130           ;BARCELONA      ;935600991      
+SITGES                    ;CAMÍ DELS CAPELLANS, S/N               ;Sitges                ;8870           ;BARCELONA      ;938947578      
+SANT LLÀTZER              ;CARRER DE LA RIBA, Nº 62               ;Terrassa              ;8221           ;BARCELONA      ;937310137      
+TERRASSA EST              ;C/ CIUTAD REAL, Nº 31                  ;Terrassa              ;8227           ;BARCELONA      ;937848283      
+ANTONI CREUS - CAN PARELLA;C/ ITALIA, Nº 5                        ;Terrassa              ;8228           ;BARCELONA      ;937360020      
+ULLASTRELL                ;CTRA. DE TERRASSA, S/N                 ;Ullastrell            ;8231           ;BARCELONA      ;937304448      
+VILLADECAVALLS            ;C/ SANT JOAN, S/N                      ;Viladecavalls         ;8232           ;BARCELONA      ;937333378      
+TERRASSA OEST             ;AV. ÀNGEL SALLENT, Nº 171              ;Terrassa              ;8224           ;BARCELONA      ;937455200      
+CAN TRIAS-ERNEST LLUC DE V;C/ PINTOR CASAS, S/N                   ;Terrassa              ;8232           ;BARCELONA      ;937333378      
+RAMBLA DE TERRASSA        ;C/ RAMBLA D'EGARA, Nº 386-388          ;Terrassa              ;8221           ;BARCELONA      ;937365900      
+MATADEPERA                ;PL. DE L'ADJUNTAMENT, Nº 2             ;Matadepera            ;8230           ;BARCELONA      ;937871055      
+TERRASSA NORD             ;C/ 25 DE SEPTEMBRE, Nº 26              ;Terrassa              ;8226           ;BARCELONA      ;937317700      
+TERRASSA SUD -CAN JOFRESA-;AV. SANTA EULALIA, S/N                 ;Terrassa              ;8223           ;BARCELONA      ;937855161      
+LLIÇÀ DE VALL             ;C/ CERDANYA, Nº 39                     ;Lliçà de Vall         ;8185           ;BARCELONA      ;938445630      
+SANTA EULÀLIA DE RONÇANA  ;C/ CAMÍ DE CAN TORRES, S/N             ;Santa Eulàlia de Ronça;8187           ;BARCELONA      ;938449537      
+PALAUDÀRIES               ;C/ SEGRE Nº 61 - 63                    ;Lliçà d'Amunt         ;8186           ;BARCELONA      ;938640090      
+LA CRUÏLLA                ;CTRA DE GRANOLLERS A CALDES, Km 7,5    ;Lliçà d'Amunt         ;8186           ;BARCELONA      ;938415250      
+BIGUES I RIELLS           ;C/ PRAT DE LA RIBA, Nº 54              ;Bigues i Riells       ;8415           ;BARCELONA      ;938659036      
+VALLIRANA                 ;C/ JOAN CAPRI, Nº 7                    ;Vallirana             ;8759           ;BARCELONA      ;936833938      
+CERVELLÓ                  ;C/ ANSELM CLAVÉ, S/N                   ;Cervelló              ;8758           ;BARCELONA      ;936841466      
+SANT CLIMENT DE LLOBREGAT ;PL. DE LA VILA, S/N                    ;Sant Climent de Llobre;8849           ;BARCELONA      ;936371112      
+MAS FONT                  ;PTGE. MARINA, Nº 2-4                   ;Viladecans            ;8840           ;BARCELONA      ;936472177      
+MARÍA BERNADES            ;AV. VERGE DE MONTSERRAT, Nº 124-126    ;Viladecans            ;8840           ;BARCELONA      ;936474155      
+ALT PENEDÈS               ;PL. DEL PENEDÈS, Nº 1                  ;Vilafranca del Penedès;8720           ;BARCELONA      ;938915402      
+SANT MARÇAL               ;C/ MUNTANYA, Nº 7                      ;Castellet i la Gornal ;8732           ;BARCELONA      ;-              
+LES MASUQUES              ;C/ MAJOR, Nº 20                        ;Castellet i la Gornal ;8729           ;BARCELONA      ;-              
+TORRELLETES               ;C/ SANTA MAGDALENA, Nº 20              ;Castellet i la Gornal ;8729           ;BARCELONA      ;-              
+SANT JOAN                 ;C/ JARDÍ, Nº 106                       ;Vilanova i la Geltrú  ;8800           ;BARCELONA      ;936571738      
+JAUME I                   ;C/ MANUEL MARQUÈS, S/N                 ;Vilanova i la Geltrú  ;8800           ;BARCELONA      ;938932200      
+BAIX  A MAR               ;PL. DELS BOLERANYS, Nº 5               ;Vilanova i la Geltrú  ;8800           ;BARCELONA      ;938103003      
+CABRILS                   ;C/ DE CAL BATALLÓ, S/N                 ;Cabrils               ;8348           ;BARCELONA      ;937507410      
+VILASSAR DE DALT          ;PL. DE LA VILA, Nº 8                   ;Vilassar de Dalt      ;8339           ;BARCELONA      ;937508864      
+CABRERA DE MAR            ;PL. CAN PAU FERRER, Nº 1               ;Cabrera de Mar        ;8349           ;BARCELONA      ;937540442      
+PLA DE L'AVELLÀ           ;RAMBLA DELS VINYALS, Nº  20            ;Cabrera de Mar        ;8349           ;BARCELONA      ;937597836      
+DR. GUILLERMO MASRIERA I G;C/ SANTA MARIA, Nº 59-79               ;Vilassar de Mar       ;8340           ;BARCELONA      ;937540642      
+EL MONTMELL               ;C/ ORIENT, S/N (PARATGE DE LA SORT)    ;Montmell, El          ;43718          ;TARRAGONA      ;977689210      
+RODONYÀ                   ;C/ DIPUTACIÓ, Nº 4                     ;Rodonyà               ;43812          ;TARRAGONA      ;977628274      
+SANTES CREUS              ;C/ FONT DEL CAMP, Nº 1                 ;Aiguamúrcia           ;43815          ;TARRAGONA      ;977638310      
+RENAU                     ;C/ PERALTA, Nº 2                       ;Renau                 ;43886          ;TARRAGONA      ;977620532      
+PUIGPELAT                 ;CTRA. VILABELLA, S/N                   ;Puigpelat             ;43812          ;TARRAGONA      ;977602240      
+PONT D'ARMENTERA (EL)     ;C/ ORQUESTRA GALANS, Nº 1              ;Pont d'Armentera, El  ;43817          ;TARRAGONA      ;977638200      
+EL PLA DE SANTA MARIA     ;PASEO DEL PLA, Nº 2                    ;Pla de Santa Maria, El;43810          ;TARRAGONA      ;977631269      
+NULLES                    ;CAMPS I LA SÈQUIA, S/N                 ;Nulles                ;43887          ;TARRAGONA      ;977612394      
+CABRA DEL CAMP            ;C/ RAVAL DE LA CREU, Nº 9              ;Cabra del Camp        ;43811          ;TARRAGONA      ;977631292      
+BRÀFIM                    ;C/ PAU CASALS, S/N                     ;Bràfim                ;43812          ;TARRAGONA      ;977620105      
+VILA-RODONA               ;C/ DE LES ESCOLES, Nº 6                ;Vila-rodona           ;43814          ;TARRAGONA      ;977638710      
+VILABELLA                 ;SANT ANTONI, Nº 2                      ;Vilabella             ;43886          ;TARRAGONA      ;977620347      
+MONTFERRI                 ;C/ MAJOR, Nº 40                        ;Montferri             ;43812          ;TARRAGONA      ;977620478      
+MASLLORENÇ                ;C/ SANT MIQUEL, Nº 25                  ;Masllorenç            ;43718          ;TARRAGONA      ;977628298      
+FIGUEROLA DEL CAMP        ;C/ ONZE DE SETEMBRE, S/N               ;Figuerola del Camp    ;43811          ;TARRAGONA      ;977631288      
+ALIÓ                      ;C/ JAUME I, Nº 7                       ;Alió                  ;43813          ;TARRAGONA      ;977603859      
+QUEROL                    ;C/ ANDORRA, Nº 11                      ;Querol                ;43816          ;TARRAGONA      ;977638288      
+LES POBLES                ;C/ SANT JORDI, Nº 30                   ;Mont-roig del Camp    ;43815          ;TARRAGONA      ;977638394      
+ALCOVER                   ;C/ FONTS DEL GLORIETA, S/N             ;Alcover               ;43460          ;TARRAGONA      ;977760690      
+MONT-RAL                  ;C/ MAJOR, Nº 4                         ;Mont-ral              ;43364          ;TARRAGONA      ;977760149      
+VILAVERD                  ;PL. BÀSCULA, S/N                       ;Vilaverd              ;43490          ;TARRAGONA      ;977876070      
+LA RIBA                   ;C/ ERA CIURANA, S/N                    ;Riba, La              ;43450          ;TARRAGONA      ;977876362      
+EL MILÀ                   ;LES PARCELES, Nº 1                     ;Milà, El              ;43143          ;TARRAGONA      ;977637397      
+LLORENÇ DEL PENEDÈS       ;C/ RAMBLA MARINADA, Nº 19              ;Llorenç del Penedès   ;43712          ;TARRAGONA      ;977677514      
+L'ARBOÇ                   ;AVDA. CATALUNYA, S/N                   ;Arboç, L'             ;43720          ;TARRAGONA      ;977671588      
+SANT JAUME DELS DOMENYS   ;C/ GERMANOR, Nº 12                     ;Sant Jaume dels Domeny;43713          ;TARRAGONA      ;977678816      
+BANYERES DEL PENEDÈS      ;C/ MESTRE GÜELL, Nº 2                  ;Banyeres del Penedès  ;43711          ;TARRAGONA      ;977671712      
+SEGUR DE CALAFELL         ;C/ JOAN MARAGALL, S/N                  ;Calafell              ;43822          ;TARRAGONA      ;977164408      
+CALAFELL                  ;AVDA. VILARENC, Nº 8                   ;Calafell              ;43820          ;TARRAGONA      ;977691418      
+LLEUGER GIMBERNAT         ;PL. DE L'AJUNTAMENT, Nº 4              ;Cambrils              ;43850          ;TARRAGONA      ;977363074      
+CONSTANTÍ                 ;C/ DELS HORTS, Nº 6                    ;Constantí             ;43120          ;TARRAGONA      ;977524109      
+LA FEBRÓ                  ;C/ DE LA FONT, Nº 1                    ;Febró, La             ;43364          ;TARRAGONA      ;977868333      
+LA MORERA DE MONTSANT     ;C/ MAJOR, Nº 4                         ;Morera de Montsant, La;43361          ;TARRAGONA      ;977054040      
+ESCALA-DEI                ;CAMÍ DE LA CARTOIXA, S/N               ;Morera de Montsant, La;43379          ;TARRAGONA      ;977054040      
+POBOLEDA                  ;C/ RAVAL, Nº 4                         ;Poboleda              ;43376          ;TARRAGONA      ;977827037      
+PRADES                    ;C/ NOU DEL PONT, Nº 1                  ;Prades                ;43364          ;TARRAGONA      ;977868415      
+CAPAFONTS                 ;C/ LES FONTS, Nº 7                     ;Capafonts             ;43364          ;TARRAGONA      ;977868113      
+ULLDEMOLINS               ;C/ SANTA MAGDALENA, Nº 20              ;Ulldemolins           ;43363          ;TARRAGONA      ;977561553      
+CORNUDELLA                ;C/ COMTE DE RIUS, Nº 2 BIS             ;Cornudella de Montsant;43360          ;TARRAGONA      ;977821062      
+ELS GARIDELLS             ;AV. CATALUNYA, Nº 2                    ;Garidells, Els        ;43153          ;TARRAGONA      ;977625230      
+L'ARGILAGA                ;C/ SANT ROC, S/N                       ;Secuita, La           ;43765          ;TARRAGONA      ;977611217      
+LA SECUITA                ;C/ CATALUNYA, Nº 4                     ;Secuita, La           ;43765          ;TARRAGONA      ;977611217      
+VISTABELLA                ;C/ ONZE DE SETEMBRE, S/N               ;Secuita, La           ;43765          ;TARRAGONA      ;977611217      
+VILALLONGA DEL CAMP       ;PL. DE L'ESGLÉSIA, Nº 1                ;Vilallonga del Camp   ;43141          ;TARRAGONA      ;977842328      
+PUIGDELFÍ                 ;C/ NOU, Nº 33                          ;Perafort              ;43155          ;TARRAGONA      ;977610196      
+PERAFORT                  ;C/ CASTELLOT, Nº 2                     ;Perafort              ;43152          ;TARRAGONA      ;977610196      
+LES GUNYOLES              ;PL. MAJOR, S/N                         ;Secuita, La           ;43154          ;TARRAGONA      ;977611217      
+EL ROURELL                ;C/ CATALUNYA, Nº 51                    ;Rourell, El           ;43142          ;TARRAGONA      ;977840502      
+EL MORELL                 ;AV. TARRAGONA, S/N                     ;Morell, El            ;43760          ;TARRAGONA      ;977840656      
+LA BISBAL DEL PENEDÈS     ;C/ GIRONA, Nº 3                        ;Bisbal del Penedès, La;43717          ;TARRAGONA      ;977688724      
+EL VENDRELL               ;C/ TRANSVERSAL, S/N                    ;Vendrell, El          ;43700          ;TARRAGONA      ;977667703      
+LES PECES                 ;C/ LA PLAÇA, Nº 17                     ;Albinyana             ;43718          ;TARRAGONA      ;977687698      
+ALBINYANA                 ;C/ TORRETA, Nº 19                      ;Albinyana             ;43716          ;TARRAGONA      ;977687075      
+SANTA OLIVA               ;C/ MOSSEN ANTONI PARADIS, Nº 1         ;Santa Oliva           ;43710          ;TARRAGONA      ;977679550      
+COMA-RUGA                 ;AV. GENERALITAT, S/N                   ;Vendrell, El          ;43880          ;TARRAGONA      ;977683586      
+BELLVEI                   ;C/ MARTÍ I POL, Nº 1                   ;Bellvei               ;43719          ;TARRAGONA      ;977661918      
+ELS GUIAMETS              ;C/ ESGLÉSIA, Nº 2                      ;Guiamets, Els         ;43777          ;TARRAGONA      ;977413058      
+MARÇÀ                     ;PL. ARENES, Nº 1                       ;Marçà                 ;43775          ;TARRAGONA      ;977178186      
+EL MASROIG                ;AV. LLUÍS COMPANYS, Nº 2               ;Masroig, El           ;43736          ;TARRAGONA      ;977825125      
+PRADELL DE LA TEIXETA     ;C/ DALT, Nº 19                         ;Pradell de la Teixeta ;43774          ;TARRAGONA      ;977828010      
+BELLMUNT DEL PRIORAT      ;PG. DEL PRIORAT, Nº 6                  ;Bellmunt del Priorat  ;43738          ;TARRAGONA      ;977830201      
+CABACÉS                   ;C/ BEAT JOAN D'ORGANYÓ, Nº 2           ;Cabacés               ;43373          ;TARRAGONA      ;977839137      
+CAPÇANES                  ;C/ CARRASCLET, Nº 24                   ;Capçanes              ;43776          ;TARRAGONA      ;977178182      
+FALSET                    ;C/ VILANOVA DE LES TORRES, Nº 1        ;Falset                ;43730          ;TARRAGONA      ;977831288      
+LA FIGUERA                ;C/ DE LA PLAÇA, Nº 12                  ;Figuera, La           ;43736          ;TARRAGONA      ;977825177      
+GRATALLOPS                ;C/ DE DALT, Nº 11                      ;Gratallops            ;43737          ;TARRAGONA      ;977839169      
+EL LLOAR                  ;PL. DE L'ESGLÉSIA, Nº 1                ;Lloar, El             ;43737          ;TARRAGONA      ;977825054      
+LA VILELLA ALTA           ;PL. DE LES ERES, Nº 1                  ;Vilella Alta, La      ;43375          ;TARRAGONA      ;977839424      
+LA VILELLA BAIXA          ;PL. DE L'ESGLÉSIA, Nº 2                ;Vilella Baixa, La     ;43374          ;TARRAGONA      ;977839101      
+PORRERA                   ;PL. DE LA CONSITUCIÓ, Nº 9             ;Porrera               ;43739          ;TARRAGONA      ;977828038      
+LA TORRE DE FONTAUBELLA   ;C/ MAJOR, Nº 1                         ;Torre de Fontaubella, ;43774          ;TARRAGONA      ;977831722      
+TORROJA DEL PRIORAT       ;C/ MAJOR, Nº 50                        ;Torroja del Priorat   ;43737          ;TARRAGONA      ;977839349      
+EL MOLAR                  ;C/ MAJOR, Nº 21                        ;Molar, El             ;43736          ;TARRAGONA      ;977825179      
+ALMOSTER                  ;C/ EL FORN, Nº 15                      ;Almoster              ;43393          ;TARRAGONA      ;977855646      
+LA SELVA DEL CAMP         ;C/ EL VILAR, Nº 2                      ;Selva del Camp, La    ;43470          ;TARRAGONA      ;977845717      
+ARBOLÍ                    ;C/ MAJOR, Nº 20                        ;Arbolí                ;43365          ;TARRAGONA      ;977816014      
+VILAPLANA                 ;C/ NOSTRA SENYORA DE MONTSERRAT, Nº 2  ;Vilaplana             ;43380          ;TARRAGONA      ;977815139      
+ALFORJA                   ;C/ DE LA FONT, Nº 58-60                ;Alforja               ;43365          ;TARRAGONA      ;977816367      
+RIUDECOLS                 ;C/ LA PARRA, Nº 2                      ;Riudecols             ;43390          ;TARRAGONA      ;977560355      
+L'ALEIXAR                 ;C/ JOAQUIM MIR, Nº 30                  ;Aleixar, L'           ;43381          ;TARRAGONA      ;977815106      
+MASPUJOLS                 ;C/ DE LA BOTIGA, Nº 1                  ;Maspujols             ;43382          ;TARRAGONA      ;977815636      
+LES BORGES DEL CAMP       ;AVDA. DE LA FONT DE LES ESCALES, S/N   ;Borges del Camp, Les  ;43350          ;TARRAGONA      ;977560089      
+SARRAL                    ;AV. DE LA CONCA, Nº 44                 ;Sarral                ;43424          ;TARRAGONA      ;977890126      
+BLANCAFORT                ;PL. DELS ARBRES, Nº 11                 ;Blancafort            ;43411          ;TARRAGONA      ;977892088      
+BELLTALL                  ;PL. ESGLÉSIA, Nº 4                     ;Passanant i Belltall  ;43413          ;TARRAGONA      ;977892900      
+PASSANANT                 ;PL. MAJOR, Nº 2                        ;Passanant i Belltall  ;43425          ;TARRAGONA      ;977892701      
+COLLDEJOU                 ;C/ DE BAIX, Nº 42                      ;Colldejou             ;43310          ;TARRAGONA      ;977837287      
+FORÈS                     ;PLA DE LA BASSA, Nº 21                 ;Forès                 ;43425          ;TARRAGONA      ;977890311      
+L'ESPLUGA DE FRANCOLÍ     ;PL. SANT ISIDRE, S/N                   ;Espluga de Francolí, L;43440          ;TARRAGONA      ;977870456      
+ROCAFORT DE QUERALT       ;AV. CATALUNYA, Nº 17                   ;Rocafort de Queralt   ;43426          ;TARRAGONA      ;977898004      
+SOLIVELLA                 ;PL. MAJOR, Nº 1                        ;Solivella             ;43412          ;TARRAGONA      ;977892101      
+MONTBLANC                 ;AVDA. JAUME LLECHA, S/N                ;Montblanc             ;43400          ;TARRAGONA      ;977860089      
+VILANOVA DE PRADES        ;C/ MAJOR, Nº 3                         ;Vilanova de Prades    ;43439          ;TARRAGONA      ;977869056      
+VIMBODÍ                   ;PL. MAJOR, Nº 12                       ;Vimbodí i Poblet      ;43430          ;TARRAGONA      ;977878386      
+VALLCLARA                 ;C/ PLACETA, Nº 12                      ;Vallclara             ;43439          ;TARRAGONA      ;977869221      
+BARBERÀ DE LA CONCA       ;C/ COMERÇ, S/N                         ;Barberà de la Conca   ;43422          ;TARRAGONA      ;977887294      
+PIRA                      ;C/ DIPUTACIÓ, S/N                      ;Pira                  ;43423          ;TARRAGONA      ;977887257      
+PRATDIP                   ;AV. CATALUNYA, Nº 7                    ;Pratdip               ;43320          ;TARRAGONA      ;977566191      
+VILANOVA D'ESCORNALBOU    ;AVDA. DE LES ESCOLES, Nº 3             ;Vilanova d'Escornalbou;43311          ;TARRAGONA      ;977837519      
+ARBOCET                   ;C/ DE BAIX, Nº 1                       ;Vilanova d'Escornalbou;43311          ;TARRAGONA      ;977837519      
+MONT-ROIG DEL CAMP        ;C/ DR. SEGARRA, Nº 32                  ;Mont-roig del Camp    ;43300          ;TARRAGONA      ;977837877      
+MIAMI PLATJA              ;AV. BARCELONA, Nº 173                  ;Mont-roig del Camp    ;43892          ;TARRAGONA      ;977811200      
+SANT PERE                 ;CAMÍ DE RIUDOMS, Nº 53-55              ;Reus                  ;43202          ;TARRAGONA      ;977778511      
+CASTELLVELL DEL CAMP      ;C/ SANT JAUME, Nº 10                   ;Castellvell del Camp  ;43392          ;TARRAGONA      ;977855744      
+BARRI GAUDÍ               ;C/ BARCELONA, Nº 10                    ;Reus                  ;43202          ;TARRAGONA      ;977334078      
+LLIBERTAT                 ;C/ GENERAL MORAGUES, Nº 52             ;Reus                  ;43203          ;TARRAGONA      ;977213612      
+HORTS DE MIRÓ             ;CAMÍ DE L'AIGUA NOVA, Nº 29            ;Reus                  ;43204          ;TARRAGONA      ;977753409      
+MARIÀ FORTUNY             ;C/ ASTORGA, S/N                        ;Reus                  ;43205          ;TARRAGONA      ;977776802      
+RIUDECANYES               ;C/ DEL DIMARTS, Nº 1 - 3               ;Riudecanyes           ;43771          ;TARRAGONA      ;977834050      
+MONTBRIÓ DEL CAMP         ;AV. JOSEP M. SOLÉ, Nº 1 - 3            ;Montbrió del Camp     ;43340          ;TARRAGONA      ;977826180      
+VINYOLS                   ;PL. DE L'ESGLÉSIA, Nº 1                ;Vinyols i els Arcs    ;43391          ;TARRAGONA      ;977768224      
+BOTARELL                  ;C/ CORRALOT, S/N                       ;Botarell              ;43772          ;TARRAGONA      ;977833247      
+L'ARGENTERA               ;PL. ESGLÉSIA, Nº 2                     ;Argentera, L'         ;43773          ;TARRAGONA      ;977834070      
+RIUDOMS                   ;C/ LA SARDANA, Nº 3                    ;Riudoms               ;43330          ;TARRAGONA      ;977850440      
+DUESAIGÜES                ;C/ ENSEULA, Nº 7                       ;Duesaigües            ;43773          ;TARRAGONA      ;977834607      
+ELS ARCS1                 ;C/ CRISTÒFOL COLOM, Nº 1               ;Vinyols i els Arcs    ;43391          ;TARRAGONA      ;977369572      
+SALOU                     ;CARRER DEL CARRILET, Nº 12             ;Salou                 ;43840          ;TARRAGONA      ;977383018      
+LA CANONJA                ;C/ CARRASCO I FORMIGUERA, Nº 17, Nº BAI;Tarragona             ;43110          ;TARRAGONA      ;977556678      
+BONAVISTA                 ;C/ SET, Nº 36                          ;Tarragona             ;43100          ;TARRAGONA      ;977529497      
+TORREFORTA-LA GRANJA      ;C/ LA GOMERA, Nº 10                    ;Tarragona             ;43006          ;TARRAGONA      ;977548088      
+RAMBLA NOVA               ;PLAÇA IMPERIAL TARRACO, Nº 7           ;Tarragona             ;43005          ;TARRAGONA      ;977240666      
+JAUME I                   ;C/ JAUME I, Nº 45-49                   ;Tarragona             ;43005          ;TARRAGONA      ;977247211      
+SANTA TECLA-LLEVANT       ;C/ JOAN FUSTER I ORTELLS, S/N          ;Tarragona             ;43007          ;TARRAGONA      ;977259000      
+EL CATLLAR                ;AV. CATALUNYA, S/N                     ;Catllar, El           ;43764          ;TARRAGONA      ;977653675      
+SANT PERE I SANT PAU      ;C/ EDIFICI DE SANT PERE, S/N           ;Tarragona             ;43007          ;TARRAGONA      ;977201212      
+NOU TÀRRACO               ;C/ DR. MALLAFRÉ GUASCH, Nº 4           ;Tarragona             ;43007          ;TARRAGONA      ;977221871      
+SANT SALVADOR             ;L'ALZINA DE MAS,  Nº 2                 ;Tarragona             ;43130          ;TARRAGONA      ;977522927      
+ELS PALLARESOS            ;C/ DEL POU, S/N                        ;Pallaresos, Els       ;43151          ;TARRAGONA      ;977610762      
+MURALLES                  ;C/ ESCULTOR VERDEROL, S/N              ;Tarragona             ;43002          ;TARRAGONA      ;977249404      
+LA NOU DE GAIÀ            ;PL. DEL CENTENARI, Nº 2                ;Nou de Gaià, La       ;43763          ;TARRAGONA      ;977655710      
+BONASTRE                  ;PL. MAJOR, Nº 1                        ;Bonastre              ;43884          ;TARRAGONA      ;977657227      
+BAIX A MAR                ;C/ JOAQUÍN COSTA, S/N                  ;Torredembarra         ;43830          ;TARRAGONA      ;-              
+TORREDEMBARRA             ;C/ ONZE DE SETEMBRE, S/N               ;Torredembarra         ;43830          ;TARRAGONA      ;977643809      
+LA VESPELLA DE GAIÀ       ;AV. SANT MIQUEL, S/N                   ;Vespella de Gaià      ;43763          ;TARRAGONA      ;977649069      
+SALOMÓ                    ;PASSEIG JOAN CREUS, S/N                ;Salomó                ;43885          ;TARRAGONA      ;977629011      
+ZONA PLATJA RODA DE BARÀ  ;C/ SINA, S/N                           ;Roda de Berà          ;43883          ;TARRAGONA      ;977801905      
+RODA DE BARÀ              ;C/ DE LA FONT, Nº 7                    ;Roda de Berà          ;43883          ;TARRAGONA      ;977657514      
+ARDENYA                   ;C/ MAJOR, Nº 16                        ;Riera de Gaià, La     ;43762          ;TARRAGONA      ;977655555      
+LA RIERA DE GAIÀ          ;C/ VIAL DE LA SÈQUIA, Nº 32            ;Riera de Gaià, La     ;43762          ;TARRAGONA      ;977655555      
+CREIXELL                  ;AV. DE VALLS, S/N                      ;Creixell              ;43839          ;TARRAGONA      ;977800336      
+ALTAFULLA                 ;C/ BRUIXES, S/N                        ;Altafulla             ;43893          ;TARRAGONA      ;977656007      
+LA POBLA DE MONTORNÈS     ;C/ SANT ANTONI, Nº 5                   ;Pobla de Montornès, La;43761          ;TARRAGONA      ;977648531      
+PICAMOIXONS - VALLS       ;C/ SANT ISIDRE, Nº 3                   ;Valls                 ;43491          ;TARRAGONA      ;977623012      
+VALLMOLL                  ;PL. ESGLÉSIA, Nº 10                    ;Vallmoll              ;43144          ;TARRAGONA      ;977637406      
+DOCTOR SARRÓ ROSET        ;C/ VALLVERA, Nº 8                      ;Valls                 ;43800          ;TARRAGONA      ;977602000      
+LA MASÓ                   ;C/ MAJOR, Nº 15                        ;Masó, La              ;43143          ;TARRAGONA      ;977637541      
+VANDELLÒS                 ;C/ DR ALFREDO SIMÓN, Nº 2              ;Vandellòs i l'Hospital;43891          ;TARRAGONA      ;977820336      
+MASRIUDOMS                ;AV. SANTA ANA, Nº 21                   ;Vandellòs i l'Hospital;43891          ;TARRAGONA      ;977820336      
+L'HOSPITALET DE L'INFANT  ;CTRA. DE MÓRA, Nº 13-15                ;Vandellòs i l'Hospital;43890          ;TARRAGONA      ;977820336      
+LA PINEDA                 ;C/ ALFREDO KRAUS, Nº 18                ;Vila-seca             ;43480          ;TARRAGONA      ;977370513      
+VILA-SECA                 ;C/ GALCERAN DE PINÓS, Nº 25            ;Vila-seca             ;43480          ;TARRAGONA      ;977394027      
+LA PLANA                  ;C/ ALMERIA, Nº 26                      ;Vilaplana             ;43206          ;TARRAGONA      ;977390436      
+CERCS                     ;CTRA. DE RIBES, Nº 22                  ;Cercs                 ;8698           ;BARCELONA      ;938248527      
+SANT CORNELI              ;C/ SANTA BARBARA, Nº 1                 ;Cercs                 ;8698           ;BARCELONA      ;938248320      
+LA RODONELLA              ;PG. ONZE DE SETEMBRE                   ;Cercs                 ;8698           ;BARCELONA      ;938248552      
+SANT JORDI                ;C/ JOAN CARLES I, Nº 1                 ;Cercs                 ;8698           ;BARCELONA      ;938248651      
+BERGUEDÀ                  ;C/ QUIM SERRA, Nº 1                    ;Berga                 ;8600           ;BARCELONA      ;938212744      
+AVIÀ                      ;C/ ANSELM CLAVÉ, S/N                   ;Avià                  ;8610           ;BARCELONA      ;938230331      
+LA NOU DE BERGUEDÀ        ;PL. DE LA VILA, S/N                    ;Nou de Berguedà, La   ;8698           ;BARCELONA      ;938259000      
+BORREDÀ                   ;C/ DE DALT, Nº 5                       ;Borredà               ;8619           ;BARCELONA      ;938239091      
+VILADA                    ;C/ TEODOR MIRALLES, Nº 33              ;Vilada                ;8613           ;BARCELONA      ;938238327      
+CASTELLCIR                ;C/ DE CAL SOLANES, S/N                 ;Castellcir            ;08183          ;BARCELONA      ;938668151      
+CASTELLTERÇOL             ;CTRA. CASTELLCIR, S/N                  ;Castellterçol         ;8183           ;BARCELONA      ;938666350      
+SANT QUIRZE SAFAJA        ;C/ BARCELONA, Nº 2                     ;Sant Quirze Safaja    ;8189           ;BARCELONA      ;938663898      
+L'ESTANY                  ;PG. DEL PRAT, Nº 1                     ;Estany, L'            ;8148           ;BARCELONA      ;938303030      
+MOIÀ                      ;C/ SANTA MAGDALENA, Nº 1               ;Moià                  ;8180           ;BARCELONA      ;938207932      
+NAVARCLES                 ;C/ FORTIÀ I SOLÀ, Nº 11                ;Navarcles             ;8270           ;BARCELONA      ;938310030      
+MURA                      ;C/ MUNTANYA, Nº 17                     ;Mura                  ;8278           ;BARCELONA      ;938317226      
+CASTELLNOU DE BAGES       ;ONZE DE SETEMBRE, S/N                  ;Sant Fruitós de Bages ;8251           ;BARCELONA      ;938321845      
+SANT FRUITÓS DE BAGES     ;AV. BERTRAND I SERRA, Nº 8             ;Sant Fruitós de Bages ;8272           ;BARCELONA      ;938760912      
+TALAMANCA                 ;C/ RAVAL, Nº 4 .CASAL D'AVIS           ;Talamanca             ;8278           ;BARCELONA      ;938270036      
+SANTPEDOR                 ;PL. PAU, Nº 1                          ;Santpedor             ;8251           ;BARCELONA      ;938321133      
+NAVÀS                     ;C/ PAU DUARRI, Nº 36                   ;Navàs                 ;8670           ;BARCELONA      ;938390333      
+BALSARENY                 ;PL. ROC GARCIA, S/N                    ;Balsareny             ;8660           ;BARCELONA      ;938396127      
+FONOLLOSA                 ;C/ ESGLÈSIA, S/N                       ;Fonollosa             ;08259          ;BARCELONA      ;938366155      
+AGUILAR DE SEGARRA        ;EDIFICI AJUNTAMENT, S/N                ;Aguilar de Segarra    ;08256          ;BARCELONA      ;938366202      
+RAJADELL                  ;C/ MAJOR, Nº 8                         ;Rajadell              ;08256          ;BARCELONA      ;938368044      
+SANT JOAN DE VILATORRADA  ;AV. DEL TORRENT CANIGÓ, Nº 2           ;Sant Joan de Vilatorra;8250           ;BARCELONA      ;938726750      
+CANET DE FALS             ;PL. DE LA VILA, S/N                    ;Fonollosa             ;08259          ;BARCELONA      ;670471800      
+FALS                      ;C/ ESCOLES, S/N                        ;Fonollosa             ;8259           ;BARCELONA      ;938369018      
+PONT DE VILOMARA I ROCAFOR;PL. COOPERATIVA, S/N                   ;Pont de Vilomara i Roc;8254           ;BARCELONA      ;938317552      
+CASTELLGALÍ               ;AV. DE MONTSERRAT, Nº 2                ;Castellgalí           ;08297          ;BARCELONA      ;938334050      
+SANT VICENÇ DE CASTELLET  ;C/ MANRESA, S/N                        ;Sant Vicenç de Castell;8295           ;BARCELONA      ;938335224      
+VALLS-PALÀ                ;C/ LES TORRES, Nº 1                    ;Callús                ;8269           ;BARCELONA      ;938696405      
+GORETTI BADIA             ;PL. DE LA SERRADONA, Nº 1              ;Súria                 ;8260           ;BARCELONA      ;938694007      
+CALLÚS                    ;C/ FRANCESC MACIÀ, Nº 27               ;Callús                ;8262           ;BARCELONA      ;938361888      
+CASTELLAR DE N'HUG        ;C/ NOU, S/N                            ;Castellar de n'Hug    ;8699           ;BARCELONA      ;938257010      
+GUARDIOLA DE BERGUEDÀ     ;C/ DE L'ESTACIÓ, Nº 4                  ;Guardiola de Berguedà ;8694           ;BARCELONA      ;938227172      
+TARRADELLES               ;C/ SANT MARC, Nº 4                     ;Bagà                  ;8695           ;BARCELONA      ;938244555      
+BAGÀ                      ;C/ VILASECA, Nº 2                      ;Bagà                  ;8695           ;BARCELONA      ;938244500      
+SALDES                    ;C/ ZONA CAMP DEL CANTÓ, S/N            ;Saldes                ;8699           ;BARCELONA      ;938258036      
+MAÇANERS                  ;C/ MAJOR, S/N                          ;Saldes                ;8699           ;BARCELONA      ;938258080      
+LA POBLA                  ;VIA DEL CARRILET, S/N                  ;Pobla de Lillet, La   ;8696           ;BARCELONA      ;938236006      
+SANT JULIÀ DE CERDANYOLA  ;PLAÇA DE L'AJUNTAMENT, S/N             ;Sant Julià de Cerdanyo;8699           ;BARCELONA      ;938227678      
+VALLCEBRE                 ;CASA ROSER, S/N                        ;Vallcebre             ;8699           ;BARCELONA      ;938227102      
+CASTELLOLÍ                ;AV. DE LA UNIÓ, Nº 62                  ;Castellolí            ;8719           ;BARCELONA      ;938084141      
+COPONS                    ;C/ ÀNGEL GUIMERÀ, Nº 9                 ;Copons                ;8281           ;BARCELONA      ;938090150      
+ANOIA                     ;PASSEIG VERDAGUER, Nº 170              ;Igualada              ;08700          ;BARCELONA      ;938053500      
+ARGENÇOLA                 ;C/ ESGLÉSIA, S/N                       ;Argençola             ;8719           ;BARCELONA      ;938092000      
+ORPÍ                      ;PL. SANT JORDI, S/N                    ;Orpí                  ;8787           ;BARCELONA      ;938080303      
+LA POBLA DE CLARAMUNT     ;C/ PARE ANTON SOTERAS, Nº 2            ;Pobla de Claramunt, La;8787           ;BARCELONA      ;938086500      
+SANT MARTÍ DE TOUS        ;C/ ESCOLES, Nº 10                      ;Sant Martí de Tous    ;8712           ;BARCELONA      ;938096330      
+JORBA                     ;C/ DE LA SORT, Nº 9                    ;Jorba                 ;8719           ;BARCELONA      ;938078100      
+LA LLACUNA                ;PL. DE LES ERES, S/N                   ;Llacuna, La           ;8779           ;BARCELONA      ;938977007      
+MONTMANEU                 ;C/ MAJOR, Nº 46                        ;Montmaneu             ;08717          ;BARCELONA      ;938092171      
+ÒDENA                     ;C/ LA FONT, Nº 5                       ;Òdena                 ;8711           ;BARCELONA      ;938040129      
+BARRI DE SANT PERE        ;C/ UNIÓ, Nº 2                          ;Òdena                 ;8711           ;BARCELONA      ;938054646      
+CARME                     ;AV. CATALUNYA, S/N                     ;Carme                 ;8787           ;BARCELONA      ;938080051      
+AVINYÓ                    ;C/ PASSEIG, Nº 19                      ;Avinyó                ;8279           ;BARCELONA      ;938388855      
+MONISTROL DE CALDERS      ;C/ DE LA VINYA, Nº 9                   ;Monistrol de Calders  ;8275           ;BARCELONA      ;938399085      
+SANTA MARIA D'OLÓ         ;PG. CARME VIDAL, Nº 30                 ;Santa Maria d'Oló     ;8273           ;BARCELONA      ;938385200      
+SANT FELIU SASSERRA       ;CTRA. MANRESA, Nº 20                   ;Sant Feliu Sasserra   ;8274           ;BARCELONA      ;938819154      
+CALDERS                   ;CAMÍ DEL CARGOLAIRE, S/N               ;Calders               ;8275           ;BARCELONA      ;938308093      
+DOCTOR AGUSTÍ GARRIGA     ;C/ ARQUITECTE GAUDÍ, Nº 76 BIS         ;Artés                 ;8271           ;BARCELONA      ;938202060      
+PUIG-REIG                 ;PG. DE LA VÍA, Nº 14                   ;Puig-reig             ;8692           ;BARCELONA      ;938290542      
+CAL ROSAL                 ;CTRA. DE BERGA, S/N                    ;Avià                  ;8699           ;BARCELONA      ;938221999      
+OLVAN                     ;PL. AJUNTAMENT, S/N                    ;Olvan                 ;8611           ;BARCELONA      ;938228619      
+GIRONELLA                 ;PL. DE CAMPANALS, S/N                  ;Gironella             ;8680           ;BARCELONA      ;938250321      
+CASSERRES                 ;PG. BISBE COMELLAS, Nº 67              ;Casserres             ;8693           ;BARCELONA      ;938234305      
+PUJALT                    ;C/ SANT ANDREU, Nº 1                   ;Pujalt                ;8282           ;BARCELONA      ;938681268      
+SANT MARTÍ SESGUEIOLES    ;PL. AJUNTAMENT, S/N                    ;Sant Martí Sesgueioles;8282           ;BARCELONA      ;938680144      
+CASTELLFOLLIT DE RIUBREGÓS;C/ MAJOR, Nº 10                        ;Castellfollit de Riubr;8281           ;BARCELONA      ;938693031      
+SANT PERE SALLAVINERA     ;C/ RAVAL, S/N                          ;Sant Pere Sallavinera ;8281           ;BARCELONA      ;938698830      
+CALAF                     ;CTRA. LLARGA, S/N                      ;Calaf                 ;8280           ;BARCELONA      ;938698779      
+PRATS DE REI (ELS)        ;C/ RAVALET, Nº 31                      ;Prats de Rei, Els     ;8281           ;BARCELONA      ;938698102      
+VALLBONA D'ANOIA          ;C/ MAJOR, Nº 36                        ;Vallbona d'Anoia      ;8785           ;BARCELONA      ;937719171      
+CAPELLADES                ;C/ TORRENOVA, Nº 18                    ;Capellades            ;8786           ;BARCELONA      ;938011691      
+LA TORRE DE CLARAMUNT     ;C/ CASTELL, Nº 15                      ;Torre de Claramunt, La;8789           ;BARCELONA      ;938012852      
+CARDONA                   ;PASSEIG MOSSÉN JOAN RIBA, Nº 1         ;Cardona               ;8261           ;BARCELONA      ;938692450      
+LA COROMINA               ;C/ TEULISSOS, Nº 5                     ;Cardona               ;8261           ;BARCELONA      ;938692856      
+MONTMAJOR                 ;CAMÍ DE BERGA, Nº 2                    ;Montmajor             ;8261           ;BARCELONA      ;938246000      
+SANT MARTÍ DE CENTELLES   ;C/ ESTACIÓ, Nº 2                       ;Sant Martí de Centelle;8592           ;BARCELONA      ;938440500      
+CENTELLES                 ;PLA DEL MESTRE, Nº 7                   ;Centelles             ;8540           ;BARCELONA      ;938810485      
+BALENYÀ                   ;C/ MAJOR, Nº 46                        ;Balenyà               ;8550           ;BARCELONA      ;938898321      
+IGUALADA NORD             ;C/ BELGICA, Nº 5                       ;Igualada              ;8700           ;BARCELONA      ;938075800      
+BORGONYÀ                  ;CRTA. BORGONYÀ, Nº 5                   ;Sant Vicenç de Torelló;8571           ;BARCELONA      ;938505130      
+SANT VICENÇ DE TORELLÓ    ;PL. CAL FARRÉ, Nº 14                   ;Sant Vicenç de Torelló;8571           ;BARCELONA      ;938591957      
+SANT PERE DE TORELLÓ      ;PL. DR. MUNMANY, S/N                   ;Sant Pere de Torelló  ;8572           ;BARCELONA      ;938584277      
+TORELLÓ                   ;AV. POMPEU FABRA, Nº 8                 ;Torelló               ;8570           ;BARCELONA      ;938504841      
+LA TORRE D'ORISTÀ         ;C/ MOSSÉN RIBA PONT, Nº 69             ;Oristà                ;8518           ;BARCELONA      ;938880097      
+PRATS DE LLUÇANÈS         ;C/ DE MONTSERRAT, Nº 2                 ;Prats de Lluçanès     ;8513           ;BARCELONA      ;938560251      
+SANTA EULÀLIA DE PUIGORIOL;C/ ROURET, S/N                         ;Lluçà                 ;8514           ;BARCELONA      ;938554062      
+PERAFITA                  ;C/ MAJOR, Nº 4, Nº BAIX                ;Perafita              ;8589           ;BARCELONA      ;938530204      
+SANT BARTOMEU DEL GRAU    ;C/ PONENT, S/N                         ;Sant Bartomeu del Grau;8519           ;BARCELONA      ;938889362      
+OLOST DE LLUÇANÈS         ;C/GIRONA, Nº 1                         ;Olost                 ;8516           ;BARCELONA      ;938880408      
+SANTA CREU DE JUTGLAR     ;C/ VELL, Nº 13                         ;Olost                 ;8515           ;BARCELONA      ;938880408      
+ORISTÀ                    ;PL. MAJOR, Nº 1                        ;Oristà                ;8518           ;BARCELONA      ;938128006      
+MANLLEU                   ;C/ CASTELLOT, Nº 17                    ;Manlleu               ;8560           ;BARCELONA      ;938506484      
+SANT SALVADOR DE GUARDIOLA;C/ DE DALT, Nº 16                      ;Sant Salvador de Guard;8253           ;BARCELONA      ;938358205      
+EL XUP                    ;C/  VIVENDES PARE IGNASI PUIG, S/N     ;Manresa               ;8240           ;BARCELONA      ;938729306      
+SANT ANDREU               ;C/ REMEI DE DALT, Nº 8-14              ;Manresa               ;8240           ;BARCELONA      ;938744100      
+CASTELLFOLLIT DEL BOIX    ;C/ AJUNTAMENT, S/N                     ;Castellfollit del Boix;8255           ;BARCELONA      ;609335962      
+EL CALBET                 ;C/ PAU CASALS, S/N                     ;Sant Salvador de Guard;8253           ;BARCELONA      ;938354000      
+BAGES                     ;SOLER I MARC, Nº 6                     ;Manresa               ;8240           ;BARCELONA      ;938748178      
+LES BASES DE MANRESA      ;CREU GUIXERA, Nº 51                    ;Manresa               ;8243           ;BARCELONA      ;938772222      
+SAGRADA FAMÍLIA (FONERIA) ;C/ SANT CRISTÒFOL, Nº 34               ;Manresa               ;8243           ;BARCELONA      ;938747813      
+MONISTROL DE MONTSERRAT   ;C/ MANRESA, Nº 4                       ;Monistrol de Montserra;8691           ;BARCELONA      ;938284040      
+VACARISSES                ;C/ SALVADOR BADIA, S/N                 ;Vacarisses            ;8233           ;BARCELONA      ;938280274      
+RELLINARS                 ;PL. AJUNTAMENT, S/N                    ;Rellinars             ;08299          ;BARCELONA      ;938345000      
+CASTELLBELL I EL VILAR    ;C/ ROSA D'ABRIL, S/N                   ;Castellbell i el Vilar;8296           ;BARCELONA      ;938282080      
+PIERA                     ;C/ PIERETA, Nº 31                      ;Piera                 ;8784           ;BARCELONA      ;937789410      
+EL BEDORC                 ;C/ MUNNÉ ORPÍ, Nº 10                   ;Piera                 ;8784           ;BARCELONA      ;937706121      
+ELS HOSTALETS DE PIEROLA  ;C/ MAJOR, Nº 2                         ;Hostalets de Pierola, ;8781           ;BARCELONA      ;937712002      
+SANT JAUME SESOLIVERES    ;C/ NOU, Nº 22                          ;Piera                 ;8784           ;BARCELONA      ;937763072      
+CA N'AGUILERA             ;C/ DE L'ILLA, Nº 32                    ;Piera                 ;8784           ;BARCELONA      ;937794747      
+CAN CANALS                ;C/ SANTES CREUS, Nº 34                 ;Piera                 ;8784           ;BARCELONA      ;937728601      
+TAVERTET                  ;PL. BISBE GUILLEM, S/N                 ;Tavertet              ;08511          ;BARCELONA      ;938568278      
+SANTA MARIA DE CORCÓ      ;C/ NOU, Nº 1                           ;Santa Maria de Corcó  ;8511           ;BARCELONA      ;938568278      
+RUPIT I PRUIT             ;C/ ESGLÉSIA, Nº 7                      ;Rupit i Pruit         ;8569           ;BARCELONA      ;938522137      
+RODA DE TER               ;C/ SANT SEBASTIÀ, Nº 11                ;Roda de Ter           ;8510           ;BARCELONA      ;938540452      
+CANTONIGRÓS               ;C/ MAJOR, Nº 49                        ;Santa Maria de Corcó  ;8569           ;BARCELONA      ;938565283      
+SALLENT                   ;C/ JOSEP POTELLAS, Nº 9                ;Sallent               ;8650           ;BARCELONA      ;938372120      
+VINYOLES D'ORÍS           ;PTGE. SANT JOSEP, Nº 2                 ;Masies de Voltregà, Le;08508          ;BARCELONA      ;938504845      
+ORÍS                      ;AVDA. DEL CASTELL, Nº 1                ;Orís                  ;08573          ;BARCELONA      ;938590247      
+SANT HIPÒLIT DE VOLTREGÀ  ;C/ DE LA VINYA, Nº 5                   ;Sant Hipòlit de Voltre;8512           ;BARCELONA      ;938570987      
+LA GLEVA                  ;CTRA. DE SANT BOI, S/N                 ;Masies de Voltregà, Le;8508           ;BARCELONA      ;938502776      
+SANTA CECÍLIA DE VOLTREGÀ ;PL. ESGLÉSIA, S/N                      ;Santa Cecília de Voltr;8519           ;BARCELONA      ;938502503      
+ALPENS                    ;C/ PLACETA, Nº 2                       ;Alpens                ;8587           ;BARCELONA      ;938578075      
+SOBREMUNT                 ;C/ MAS CAL TIC                         ;Sobremunt             ;8589           ;BARCELONA      ;938527071      
+MONTESQUIU                ;PL. EMILI JUNCADELLA, Nº 1             ;Montesquiu            ;8589           ;BARCELONA      ;938529068      
+SANT QUIRZE DE BESORA     ;PG. DEL TER, Nº 21                     ;Sant Quirze de Besora ;8580           ;BARCELONA      ;938529054      
+SANT BOI DE LLUÇANÈS      ;PG. LLUÇANÈS, Nº 8                     ;Sant Boi de Lluçanès  ;8589           ;BARCELONA      ;938527079      
+SANT AGUSTÍ DE LLUÇANÈS   ;C/ ALOU, Nº 6                          ;Sant Agustí de Lluçanè;8586           ;BARCELONA      ;938527001      
+SANTA MARIA DE BESORA     ;PG. PLA DE TEIÀ, Nº 13                 ;Santa Maria de Besora ;8584           ;BARCELONA      ;938550976      
+VILANOVA DE SAU           ;PTGE. VERDAGUER, Nº 7                  ;Vilanova de Sau       ;8519           ;BARCELONA      ;938847006      
+SANTA EUGÈNIA DE BERGA    ;C/ DE LES ESCOLES, Nº 1                ;Santa Eugènia de Berga;8507           ;BARCELONA      ;938854556      
+TARADELL                  ;PASSEIG DEL PUJALÓ, Nº 5               ;Taradell              ;8552           ;BARCELONA      ;938800253      
+CALLDETENES               ;C/ JOAN MARAGALL, S/N                  ;Santa Eugènia de Berga;8506           ;BARCELONA      ;938890464      
+SANT JULIÀ DE VILATORTA   ;C/ VERGE DE MONTSERRAT, Nº 18          ;Sant Julià de Vilatort;8504           ;BARCELONA      ;938122233      
+FOLGUEROLES               ;PL. CLIMENT CAMPA CARDONA, Nº 1        ;Folgueroles           ;8519           ;BARCELONA      ;938122333      
+SANTA MARGARIDA DE MONTBUI;C/ LA FÀBRICA, Nº 9                    ;Santa Margarida de Mon;8710           ;BARCELONA      ;938017300      
+SANTA MARGARIDA DE MONTBUI;C/ ANSELM CLAVÉ, Nº 5                  ;Santa Margarida de Mon;8710           ;BARCELONA      ;938017300      
+TONA                      ;C/ JOAN MARAGALL, Nº 40-48             ;Tona                  ;8551           ;BARCELONA      ;938871162      
+SANT MIQUEL DE BALENYÀ    ;C/ DEL CASAL, S/N                      ;Abrera                ;8554           ;BARCELONA      ;938871853      
+COLLSUSPINA               ;C/ NOU, Nº 2                           ;Collsuspina           ;8178           ;BARCELONA      ;938300376      
+SEVA                      ;C/ DE DALT, Nº 5                       ;Seva                  ;8553           ;BARCELONA      ;938841084      
+GURB                      ;MAS L'ESPERANÇA, S/N                   ;Gurb                  ;8503           ;BARCELONA      ;938869922      
+OSONA                     ;PL. DE LA DIVINA PASTORA, Nº 7         ;Vic                   ;8500           ;BARCELONA      ;938891012      
+EL REMEI                  ;PTGE. PLA DEL REMEI, Nº 10-12          ;Vic                   ;8500           ;BARCELONA      ;938833443      
+SANTA EULÀLIA DE RIUPRIMER;C/ DEL SOL, Nº 56                      ;Santa Eulàlia de Riupr;08505          ;BARCELONA      ;938138024      
+VILANOVA DEL CAMÍ         ;CRTA. DE LA POBLA Nº 74                ;Vilanova del Camí     ;8788           ;BARCELONA      ;938063302      
+DR. RAMON VINYES          ;C/ GIRONA, S/N                         ;Anglès                ;17160          ;GIRONA         ;972421498      
+OSOR                      ;C/ MAJOR, Nº 36                        ;Osor                  ;17161          ;GIRONA         ;972446000      
+LA CELLERA DE TER         ;AV. MONTSERRAT, Nº 22                  ;Cellera de Ter, La    ;17165          ;GIRONA         ;972186918      
+AMER                      ;C/ GUILLERIES, Nº 5                    ;Amer                  ;17170          ;GIRONA         ;972186919      
+SANT JULIÀ DEL LLOR I BONM;PL. DON MANUEL, Nº 1                   ;Sant Julià del Llor i ;17164          ;GIRONA         ;972424075      
+SANT HILARI SACALM        ;C/ GIRONA, S/N                         ;Sant Hilari Sacalm    ;17403          ;GIRONA         ;972872277      
+ARBÚCIES                  ;C/ HAVANA, S/N                         ;Arbúcies              ;17401          ;GIRONA         ;972162210      
+SERINYÓ                   ;PL. PAÏSOS CATALANS, Nº 3              ;Serinyà               ;17852          ;GIRONA         ;972593256      
+CORNELLÀ DEL TERRI        ;CARRER JACINT VERDAGUER, Nº 20         ;Cornellà del Terri    ;17844          ;GIRONA         ;972594085      
+PALOL DE REVARDIT         ;C/ VEÏNAT DE PALOL, Nº 3               ;Palol de Revardit     ;17843          ;GIRONA         ;972594448      
+MIERES                    ;C/ CAN CALÓ S/N                        ;Mieres                ;17830          ;GIRONA         ;972680451      
+SANT MIQUEL DE CAMPMAJOR  ;PLAÇA DE LES ESCOLES, S/N              ;Sant Miquel de Campmaj;17831          ;GIRONA         ;972574626      
+PORQUERES                 ;C/ GREGAL, Nº 2                        ;Porqueres             ;17834          ;GIRONA         ;972576359      
+ESPONELLÀ                 ;PL. AJUNTAMENT, Nº 1                   ;Esponellà             ;17832          ;GIRONA         ;972597068      
+FONTCOBERTA               ;PL. CATALUNYA, S/N                     ;Fontcoberta           ;17833          ;GIRONA         ;972576136      
+BANYOLES                  ;PL. DE CATALUNYA, Nº 6                 ;Banyoles              ;17820          ;GIRONA         ;972572510      
+BANYOLES ANNEX            ;AVDA. PAÏSOS CATALANS, S/N             ;Banyoles              ;17820          ;GIRONA         ;972583939      
+CRESPIÀ                   ;CARRER MAJOR Nº 7                      ;Crespià               ;17832          ;GIRONA         ;972597230      
+VILAÜR                    ;PL. DE L'AJUNTAMENT, S/N               ;Vilaür                ;17483          ;GIRONA         ;972560628      
+PONTÓS                    ;PL. DE L'AJUNTAMENT, S/N               ;Pontós                ;17773          ;GIRONA         ;972551831      
+GARRIGOLES                ;PL. ESCOLES, S/N                       ;Garrigoles            ;17466          ;GIRONA         ;972560628      
+GARRIGÓS                  ;PL. AJUNTAMENT, Nº 2                   ;Garrigàs              ;17476          ;GIRONA         ;972568277      
+PALAU DE SANTA EULÀLIA    ;C/ AJUNTAMENT, S/N                     ;Palau de Santa Eulàlia;17476          ;GIRONA         ;972568078      
+SANT MORI                 ;PL. DE L'AJUNTAMENT, S/N               ;Sant Mori             ;17467          ;GIRONA         ;972794101      
+SANT MIQUEL DE FLUVIÓ     ;PL. DE L'AJUNTAMENT, S/N               ;Sant Miquel de Fluvià ;17475          ;GIRONA         ;972568322      
+GAÜSES                    ;PL. PONENT, S/N                        ;Vilopriu              ;17466          ;GIRONA         ;-              
+VILOPRIU                  ;C/ MIGDIA, S/N                         ;Vilopriu              ;17466          ;GIRONA         ;972560628      
+BÀSCARA                   ;PL. CATALUNYA, S/N                     ;Bàscara               ;17483          ;GIRONA         ;972560628      
+CAMALLERA                 ;C/ SANTIAGO RUSINYOL, Nº 5             ;Saus, Camallera i Llam;17465          ;GIRONA         ;972794140      
+OIX                       ;C/ MAJOR, Nº 1                         ;Montagut i Oix        ;17855          ;GIRONA         ;972287170      
+TORTELLÀ                  ;C/ OLOT, Nº 14                         ;Tortellà              ;17853          ;GIRONA         ;972687556      
+MONTAGUT                  ;AV. DE LES ESCOLES                     ;Montagut i Oix        ;17855          ;GIRONA         ;972287801      
+SANT JAUME DE LLIERCA     ;C/ INDÚSTRIA, Nº 9                     ;Sant Jaume de Llierca ;17854          ;GIRONA         ;972687039      
+ARGELAGUER                ;C/ MAJOR, S/N                          ;Argelaguer            ;17853          ;GIRONA         ;972687606      
+BESALÚ                    ;C/ PRAT DE LA RIBA, Nº 9               ;Besalú                ;17850          ;GIRONA         ;972590573      
+MAIÀ DE MONTCAL           ;C/ NOSTRA SENYORA DEL MONT, Nº 12      ;Maià de Montcal       ;17851          ;GIRONA         ;972591051      
+BLANES 2                  ;AVDA. EUROPA, Nº 10                    ;Blanes                ;17300          ;GIRONA         ;972359534      
+BLANES                    ;C/ SEBASTIÀ LLORENS, Nº 4              ;Blanes                ;17300          ;GIRONA         ;972331350      
+RIELLS I VIABREA          ;URB. CAN SALVÀ, Nº 1                   ;Riells i Viabrea      ;17404          ;GIRONA         ;972189038      
+BREDA                     ;AV. DE LA VERGE DE MONTSERRAT, Nº 13   ;Breda                 ;17400          ;GIRONA         ;972870450      
+HOSTALRIC                 ;C/ MAJOR, Nº 32                        ;Hostalric             ;17450          ;GIRONA         ;972864395      
+MASSANES                  ;C/ MAJOR, Nº 1                         ;Massanes              ;17452          ;GIRONA         ;972864480      
+CAMPRODON                 ;C/ MN. JACINT VERDAGUER, Nº 1          ;Camprodon             ;17867          ;GIRONA         ;972741213      
+VILALLONGA DE TER         ;PL. ESCOLES, S/N                       ;Vilallonga de Ter     ;17869          ;GIRONA         ;972740406      
+SETCASES                  ;C/ JESÚS, S/N                          ;Setcases              ;17869          ;GIRONA         ;972136089      
+MOLLÓ                     ;C/ SANT SEBASTIÀ, Nº 36                ;Molló                 ;17868          ;GIRONA         ;972130129      
+LLANARS                   ;PL. DE L'OM, Nº 3                      ;Llanars               ;17869          ;GIRONA         ;972741390      
+SANT PAU DE SEGÚRIES      ;C/ GUÀRDIA, Nº 11                      ;Sant Pau de Segúries  ;17864          ;GIRONA         ;972747042      
+QUART                     ;AV. DE LA BÒBILA, Nº 6                 ;Quart                 ;17242          ;GIRONA         ;972189045      
+DR. GERARD MASLLORENS     ;CTRA. LLAGOSTERA, Nº 4                 ;Caldes de Malavella   ;17455          ;GIRONA         ;972470109      
+CASSÀ DE LA SELVA         ;C/ BASSEGODA, Nº 11                    ;Cassà de la Selva     ;17244          ;GIRONA         ;972463882      
+CAMPLLONG                 ;C/ ESGLÉSIA, Nº 21                     ;Campllong             ;17459          ;GIRONA         ;972464788      
+RIUDELLOTS DE LA SELVA    ;PL. AJUNTAMENT, 1 BAIXOS               ;Riudellots de la Selva;17457          ;GIRONA         ;972477529      
+LLAMBILLES                ;PL. DE LA VILA, Nº 1                   ;Llambilles            ;17243          ;GIRONA         ;972469301      
+LLAGOSTERA                ;AV. ESTACIÓ, S/N                       ;Llagostera            ;17240          ;GIRONA         ;972831203      
+BORDILS                   ;PL. ONZE DE SETEMBRE, Nº 1 BAIXOS      ;Bordils               ;17462          ;GIRONA         ;972491177      
+LA PERA                   ;C/ MARQUÈS D'ALPENS, Nº 32             ;Pera, La              ;17120          ;GIRONA         ;972489048      
+SANT JOAN DE MOLLET       ;PL. CATALUNYA, S/N                     ;Sant Joan de Mollet   ;17463          ;GIRONA         ;972488125      
+MADREMANYA                ;C/ SANT ESTEVE, Nº 32                  ;Madremanya            ;17462          ;GIRONA         ;972491041      
+CELRÀ                     ;CTRA. DE JUIÀ, Nº 135                  ;Celrà                 ;17460          ;GIRONA         ;972492500      
+FLAÇÀ                     ;PL. ESTACIÓ, Nº 1                      ;Flaçà                 ;17463          ;GIRONA         ;972488638      
+SANT MARTÍ VELL           ;CTRA. DE MADREMANYA, S/N               ;Sant Martí Vell       ;17462          ;GIRONA         ;972490401      
+JUIÀ                      ;C/ BAIX, Nº 10, S/N                    ;Juià                  ;17462          ;GIRONA         ;972490655      
+VILATENIM                 ;NOU DE VILATENIM, Nº 9                 ;Figueres              ;17484          ;GIRONA         ;972505711      
+FIGUERES SUD              ;C/ JOSEP ROCA I BROS, Nº 8             ;Figueres              ;17600          ;GIRONA         ;972677208      
+MARCA DE L'HAM            ;CTRA. VELLA DE VILATENIM A FIGUERES, S/;Figueres              ;17600          ;GIRONA         ;972514055      
+RIUMORS                   ;C/ DE LA PLAÇA VELLA, Nº 4             ;Riumors               ;17469          ;GIRONA         ;972534272      
+FORTIÀ                    ;PL.TERRADELLES, S/N                    ;Fortià                ;17469          ;GIRONA         ;972534188      
+EL FAR D'EMPORDÀ          ;PL. AJUNTAMENT, Nº 1                   ;Far d'Empordà, El     ;17469          ;GIRONA         ;972511108      
+VILA-SACRA                ;PL. DE LA FONT, Nº 1                   ;Vila-sacra            ;17485          ;GIRONA         ;972505653      
+ERNEST LLUCH              ;C/ TRAMUNTANA, Nº 2                    ;Figueres              ;17600          ;GIRONA         ;972677631      
+GÚELL                     ;MOSSEÈN JOAN PONS, S/N                 ;Girona                ;17007          ;GIRONA         ;972210708      
+SANTA CLARA               ;C/ SANTA CLARA, Nº 33                  ;Girona                ;17001          ;GIRONA         ;972200012      
+CAN GIBERT DEL PLA        ;C/ SANT SEBASTIÀ, Nº 50                ;Girona                ;17005          ;GIRONA         ;972245350      
+VILA-ROJA                 ;C/ GERMANS LUMIÈRE, Nº 11              ;Girona                ;17004          ;GIRONA         ;972204830      
+MONTILIVI                 ;C/ CASTELL DE SOLTERRA, Nº 11-17       ;Girona                ;17003          ;GIRONA         ;972225284      
+DOCTOR JOAN VILAPLANA     ;C/ MODAGUERA GRAN, Nº 1                ;Girona                ;17007          ;GIRONA         ;972227636      
+CANET D'ADRI              ;AV. ROCACORBA, Nº 21                   ;Canet d'Adri          ;17199          ;GIRONA         ;972429166      
+LLÉMENA DE SANT GREGORI   ;C/ LLUIS COMPANYS, Nº 2                ;Sant Gregori          ;17150          ;GIRONA         ;972429928      
+SANT MARTÍ DE LLÉMENA     ;PL. AJUNTAMENT, S/N                    ;Sant Martí de Llémena ;17153          ;GIRONA         ;972443155      
+SANT ANIOL DE FINESTRES   ;PL. NOVA, S/N                          ;Sant Aniol de Finestre;17154          ;GIRONA         ;972443131      
+CORÇÀ                     ;AV. COSTA BRAVA, Nº 10                 ;Corçà                 ;17121          ;GIRONA         ;972630563      
+FOIXÀ                     ;PLAÇA, S/N                             ;Foixà                 ;17132          ;GIRONA         ;972769214      
+PALAU-SATOR               ;C/ EXTRAMURS, S/N                      ;Palau-sator           ;17256          ;GIRONA         ;972634259      
+ULTRAMORT                 ;PL. CONSTITUCIÓ, S/N                   ;Ultramort             ;17133          ;GIRONA         ;972769161      
+PARLAVÀ                   ;C/ ESCOLES, Nº 1                       ;Parlavà               ;17133          ;GIRONA         ;972767003      
+VULPELLAC                 ;C/ LA UNIÓ, S/N                        ;Forallac              ;17111          ;GIRONA         ;972645546      
+PERATALLADA               ;C/ LA ROCA, Nº 13                      ;Forallac              ;17113          ;GIRONA         ;972634005      
+FONTETA                   ;C/ EMPORDÓ, Nº 6                       ;Forallac              ;17110          ;GIRONA         ;972642660      
+LA BISBAL D'EMPORDÀ       ;C/ MARCEL RALLÓ, Nº 10                 ;Bisbal d'Empordà, La  ;17100          ;GIRONA         ;972643808      
+RUPIÀ                     ;PLA D'AVALL, Nº 2                      ;Rupià                 ;17131          ;GIRONA         ;972769067      
+ULLASTRET                 ;C/ DEL FONT, S/N                       ;Ullastret             ;17114          ;GIRONA         ;972761918      
+SANT SADURNÍ DE L'HEURA   ;PL. DE L'ESGLÉSIA, Nº 2                ;Cruïlles, Monells i Sa;17118          ;GIRONA         ;972640541      
+MONELLS                   ;C/ ESGLÉSIA, S/N                       ;Cruïlles, Monells i Sa;17121          ;GIRONA         ;972640124      
+CRUÏLLES                  ;C/ GESSAMÍ, Nº 6                       ;Cruïlles, Monells i Sa;17116          ;GIRONA         ;972640573      
+BIURE                     ;C/ NOU, Nº 2                           ;Biure                 ;17723          ;GIRONA         ;972529291      
+LES ESCAULES              ;C/ FIGUERES, S/N                       ;Boadella i les Escaule;17723          ;GIRONA         ;972569194      
+CANTALLOPS                ;C/ RECASENS, S/N                       ;Cantallops            ;17708          ;GIRONA         ;972554022      
+CAPMANY                   ;PL. DEL FORT, S/N                      ;Capmany               ;17750          ;GIRONA         ;972549118      
+BOADELLA D'EMPORDÀ        ;C/ NOU, Nº 1                           ;Boadella i les Escaule;17723          ;GIRONA         ;972569126      
+MAÇANET DE CABRENYS       ;C/ PARET NOVA, Nº 17                   ;Maçanet de Cabrenys   ;17720          ;GIRONA         ;972544258      
+LA VAJOL                  ;CTRA. DE MAÇANET, S/N                  ;Vajol, La             ;17707          ;GIRONA         ;972535520      
+AGULLANA                  ;C/ LLUÍS GOMIS, Nº 2                   ;Agullana              ;17707          ;GIRONA         ;972535491      
+PONT DE MOLINS            ;PL. DEL DR. CUFFÍ CASELLAS, Nº 1       ;Pont de Molins        ;17706          ;GIRONA         ;972529250      
+DOCTOR SUBIRÓS            ;C/ BOSC DE TRINXERIA, Nº 1             ;Jonquera, La          ;17700          ;GIRONA         ;972554567      
+DARNIUS                   ;C/ MAJOR, Nº 3                         ;Darnius               ;17722          ;GIRONA         ;972535563      
+SANT PRIVAT D'EN BAS      ;PG. GENERAL ESTARTÚS, S/N              ;Vall d'en Bas, La     ;17178          ;GIRONA         ;972693346      
+SANT FELIU DE PALLEROLS   ;PLA DEL MOLL GROS, Nº 2                ;Sant Feliu de Pallerol;17174          ;GIRONA         ;972444298      
+LES PLANES D'HOSTOLES     ;PASSATGE DE L'ESTACIÓ, S/N             ;Planes d'Hostoles, Les;17172          ;GIRONA         ;972448112      
+LA VALL D'EN BAS          ;C/ DR. TURRÓ, Nº 2                     ;Vall d'en Bas, La     ;17176          ;GIRONA         ;972690302      
+LA PINYA                  ;PL. MAJOR, S/N                         ;Vall d'en Bas, La     ;17176          ;GIRONA         ;972268566      
+RIUDAURA                  ;PL. GAMBETO, Nº 1                      ;Riudaura              ;17179          ;GIRONA         ;972264422      
+BELLCAIRE D'EMPORDÀ       ;CTRA. TORROELLA, S/N                   ;Bellcaire d'Empordà   ;17141          ;GIRONA         ;972765005      
+SANT PERE PESCADOR        ;C/ HOSPITAL, S/N                       ;Sant Pere Pescador    ;17470          ;GIRONA         ;972550514      
+DR. MOISÈS BROGGI         ;C/ MOSSÈN SALVADOR JUÉ I PUJOLAR, Nº 1 ;Escala, L'            ;17130          ;GIRONA         ;972776060      
+ALBONS                    ;PL. POBLE, S/N                         ;Albons                ;17136          ;GIRONA         ;972765085      
+TORROELLA DE FLUVIÀ       ;PL. AJUNTAMENT, Nº 1                   ;Torroella de Fluvià   ;17474          ;GIRONA         ;972520260      
+L'ARMENTERA               ;PTGE. ESCOLES, Nº 7                    ;Armentera, L'         ;17472          ;GIRONA         ;972520206      
+VILADAMAT                 ;PL. DE LA VILA, Nº 1                   ;Viladamat             ;17137          ;GIRONA         ;972788532      
+VENTALLÓ                  ;PL. MAJOR, Nº 1 BAIXOS                 ;Ventalló              ;17473          ;GIRONA         ;972793053      
+LLANÇÀ                    ;C/ DOLORS FALCÓ, Nº 16                 ;Llançà                ;17490          ;GIRONA         ;972122010      
+EL PORT DE LA SELVA       ;C/MAJOR, Nº 57                         ;Port de la Selva, El  ;17489          ;GIRONA         ;972388100      
+PORTBOU                   ;PG. DE LA SARDANA, Nº 11               ;Portbou               ;17497          ;GIRONA         ;972390700      
+LA SELVA DE MAR           ;PL. DE L'ESGLÉSIA                      ;Selva de Mar, La      ;17489          ;GIRONA         ;972387303      
+COLERA                    ;C/ FRANCESC RIBERA, Nº 55              ;Colera                ;17496          ;GIRONA         ;972128055      
+DR. FRANCISCO BENITO INARA;AVDA. DE VIDRERES, Nº 179 - 181        ;Lloret de Mar         ;17310          ;GIRONA         ;972375597      
+TOSSA DE MAR              ;AV. CATALUNYA, Nº 14                   ;Tossa de Mar          ;17320          ;GIRONA         ;972341828      
+DOCTOR A. CABAÑAS - LLORET;C/ DE GIRONA, Nº 8 - 10                ;Lloret de Mar         ;17310          ;GIRONA         ;972372909      
+GARROTXA                  ;PG. DE BARCELONA, Nº 42 T              ;Olot                  ;17800          ;GIRONA         ;972261916      
+OLOT NORD                 ;AVDA. GIRONA, Nº 53                    ;Olot                  ;17800          ;GIRONA         ;972273816      
+CAN BLANCH                ;C/ ESGLÉSIA, Nº 22                     ;Santa Pau             ;17811          ;GIRONA         ;972274093      
+SANTA PAU                 ;C/ DEL MIRADOR, Nº 6                   ;Santa Pau             ;17811          ;GIRONA         ;972680264      
+LES PRESES                ;C/ TEIXOS, Nº 2                        ;Preses, Les           ;17178          ;GIRONA         ;972682517      
+BEGUR                     ;C/ FORGAS I ELIAS, S/N                 ;Begur                 ;17255          ;GIRONA         ;972622025      
+ESCLANYÀ                  ;C/ PERDIU. CENTRE POLIVALENT           ;Begur                 ;17255          ;GIRONA         ;972610345      
+PALS                      ;PL. CATALUNYA, S/N                     ;Pals                  ;17256          ;GIRONA         ;972637024      
+TORRENT                   ;C/ TOMÀS I COLL, S/N                   ;Torrent               ;17123          ;GIRONA         ;972308502      
+REGENCÓS                  ;C/ ESGLÉSIA, Nº 4. AJUNTAMENT          ;Regencós              ;17254          ;GIRONA         ;972611709      
+DR. JOSEP ALSINA I BOFILL ;C/ ANGEL GUIMERÓ, Nº 6                 ;Palafrugell           ;17200          ;GIRONA         ;972610607      
+MONTRAS                   ;PL. AJUNTAMENT, S/N                    ;Mont-ras              ;17253          ;GIRONA         ;972301509      
+VALL - LLOBREGA           ;PL. AJUNTAMENT, Nº 22                  ;Vall-llobrega         ;17253          ;GIRONA         ;972315103      
+SANT ANTONI DE CALONGE    ;AVDA. COSTA BRAVA, Nº 6                ;Calonge               ;17252          ;GIRONA         ;972661152      
+CALONGE                   ;PL. DE LA CONCORDIA, Nº 4              ;Calonge               ;17251          ;GIRONA         ;972660475      
+CATALINA CARGOL           ;C/ HOSPITAL, Nº 17-19. EDIFICI FLEMING ;Palamós               ;17230          ;GIRONA         ;972600616      
+VILAMENISCLE              ;C/ FIGUERES, N º 5                     ;Vilamaniscle          ;17781          ;GIRONA         ;972531769      
+VILARNADAL                ;C/ DIPUTACIÓ, Nº 5                     ;Masarac               ;17762          ;GIRONA         ;972563434      
+MASARAC                   ;PL. MAJOR, Nº 1                        ;Masarac               ;17763          ;GIRONA         ;972545198      
+MOLLET DE PERALADA        ;PLAÇA, Nº 12                           ;Mollet de Peralada    ;17752          ;GIRONA         ;972545197      
+VILAJUÏGA                 ;C/ SANT SEBASTIÀ, Nº 39                ;Vilajuïga             ;17493          ;GIRONA         ;972530414      
+PERALADA                  ;C/ TOLÓ, Nº 3-5                        ;Peralada              ;17491          ;GIRONA         ;972538587      
+GARRIGUELLA               ;C/ VILAMANISCLE, Nº 20                 ;Garriguella           ;17780          ;GIRONA         ;972552465      
+ESPOLLA                   ;C/ MOSSÈN AMADEU SUDRIÓ, Nº 3          ;Espolla               ;17753          ;GIRONA         ;972563815      
+CABANES                   ;C/ ESCOLES, S/N                        ;Cabanes               ;17761          ;GIRONA         ;972510067      
+VILABERTRAN               ;C/ SANTA MARÍA, Nº 17                  ;Vilabertran           ;17760          ;GIRONA         ;972510751      
+PEDRET I MARZÓ            ;CTRA. PEDRET, S/N                      ;Pedret i Marzà        ;17493          ;GIRONA         ;972552741      
+SANT CLIMENT SESCEBES     ;C/ SOL, S/N                            ;Sant Climent Sescebes ;17751          ;GIRONA         ;972545059      
+VILANOVA DE LA MUGA       ;EDUARD PUJOL, Nº 2                     ;Peralada              ;17492          ;GIRONA         ;972678135      
+RABÓS                     ;PL. MAJOR, Nº 2                        ;Rabós                 ;17754          ;GIRONA         ;972563494      
+CAMPDEVÀNOL               ;C/ LLEVANT, Nº 13                      ;Campdevànol           ;17530          ;GIRONA         ;972730062      
+TOSES                     ;C/ SOLEI, Nº 2                         ;Toses                 ;17536          ;GIRONA         ;972736392      
+PLANOLES                  ;C/ DE L'ESCOLES, Nº 9                  ;Planoles              ;17535          ;GIRONA         ;972736000      
+PARDINES                  ;C/ PADRÓ, S/N                          ;Pardines              ;17534          ;GIRONA         ;972727027      
+RIBES DE FRESER           ;PASSEIG DE GUIMERÓ, Nº 6               ;Ribes de Freser       ;17534          ;GIRONA         ;972727709      
+CAMPELLES                 ;PL. AJUNTAMENT, S/N                    ;Campelles             ;17534          ;GIRONA         ;972727273      
+GOMBRÈN                   ;C/ CARBASSER, Nº 3                     ;Gombrèn               ;17531          ;GIRONA         ;972712150      
+QUERALBS                  ;PL. DE LA VILA, Nº 3                   ;Queralbs              ;17534          ;GIRONA         ;972727361      
+VALLFOGONA DE RIPOLLÈS    ;C/ PUIG-ESTELA, Nº 9                   ;Vallfogona de Ripollès;17862          ;GIRONA         ;972701909      
+RIPOLLÈS                  ;C/ MACIÀ BONAPLATA, Nº 9               ;Ripoll                ;17500          ;GIRONA         ;972700624      
+SANT JOAN DE LES ABADESSES;C/ SOMATENISTA RAMON D'URG             ;Sant Joan de les Abade;17860          ;GIRONA         ;972723251      
+OGASSA                    ;AV. DE LES MINES, Nº 13                ;Ogassa                ;17861          ;GIRONA         ;972720380      
+PALAU-SAVERDERA           ;C/ RAVALET, Nº 1                       ;Palau-saverdera       ;17495          ;GIRONA         ;972552098      
+ROSES                     ;CTRA. DE MAS OLIVA, Nº 23              ;Roses                 ;17480          ;GIRONA         ;972153759      
+CADAQUÉS                  ;C/ NOU, Nº 6-10                        ;Cadaqués              ;17488          ;GIRONA         ;972258807      
+CASTELLÓ D'EMPÚRIES       ;C/ RENTADOR S/N                        ;Castelló d'Empúries   ;17486          ;GIRONA         ;972250862      
+PAU                       ;C/ DEL REI, Nº 2                       ;Pau                   ;17494          ;GIRONA         ;972552505      
+EMPURIABRAVA              ;SECTOR GRAN RESERVA (EDIFICIO CENTRE CÍ;Castelló d'Empúries   ;17487          ;GIRONA         ;972453875      
+BESCANÓ                   ;PL. JOAN MARAGALL, Nº 3                ;Bescanó               ;17162          ;GIRONA         ;972442570      
+ESTANYOL                  ;PL. FONT BERNAT, S/N .CENTRE CÍVIC     ;Bescanó               ;17182          ;GIRONA         ;972442570      
+MONTFULLÓ                 ;C/ RAL, S/N. CENTRE CÍVIC              ;Bescanó               ;17162          ;GIRONA         ;972442570      
+FORNELLS DE LA SELVA      ;C/ VICENS VIVES, Nº 3                  ;Fornells de la Selva  ;17458          ;GIRONA         ;972476802      
+AIGUAVIVA                 ;C/ DEL POU, Nº 1                       ;Aiguaviva             ;17181          ;GIRONA         ;972394318      
+SALT - 2                  ;PASSEIG MARQUÉS DE CAMPS, Nº 52        ;Salt                  ;17190          ;GIRONA         ;972439136      
+DR. JORDI NADAL I FÀBREGAS;C/ MANUEL DE FALLA, Nº 34-36           ;Salt                  ;17190          ;GIRONA         ;972243737      
+VILANNA                   ;VEÏNAT DE L'ESTACIÓ, S/N. CENTRE CÍVIC ;Bescanó               ;17162          ;GIRONA         ;972442570      
+VILABLAREIX               ;AVDA. LLUIS COMPANYS, Nº 60            ;Vilablareix           ;17180          ;GIRONA         ;972495587      
+SANT FELIU DE GUÍXOLS     ;C/ GRAVINA, Nº 27 - 29                 ;Sant Feliu de Guíxols ;17220          ;GIRONA         ;972326009      
+MARTÍ CASALS I ECHEGARAY  ;OL. CATALUNYA, Nº 2                    ;Santa Cristina d'Aro  ;17246          ;GIRONA         ;972835816      
+CASTELL D'ARO             ;AV. DE LA PLATJA, Nº 64                ;Castell-Platja d'Aro  ;17249          ;GIRONA         ;972817803      
+PLATJA D'ARO              ;C/ EUROCENTER, Nº 55-61, ILLA 4A.      ;Castell-Platja d'Aro  ;17250          ;GIRONA         ;972816213      
+LA CANYA                  ;C/ LUÍS DE BOLÓS, S/N                  ;Sant Joan les Fonts   ;17858          ;GIRONA         ;972292089      
+SANT JOAN LES FONTS       ;C/ JAUME BALMES, Nº 1                  ;Sant Joan les Fonts   ;17857          ;GIRONA         ;972290836      
+BEGUDÀ                    ;CTRA. BEGUDÀ S/N                       ;Sant Joan les Fonts   ;17857          ;GIRONA         ;972291232      
+CASTELLFOLLIT DE LA ROCA  ;C/ NOU, S/N                            ;Castellfollit de la Ro;17856          ;GIRONA         ;972294195      
+LA SELVA                  ;C/ SANTA BÀRBARA, Nº 25                ;Santa Coloma de Farner;17430          ;GIRONA         ;972843016      
+VILOBÍ D'ONYAR            ;C/ CAL FERRER PAGES, S/N               ;Vilobí d'Onyar        ;17185          ;GIRONA         ;972474112      
+VILADASENS                ;C/ LLEVANT, Nº 4                       ;Viladasens            ;17464          ;GIRONA         ;972496263      
+CERVIÀ DE TER             ;C/ HOSPITAL, Nº 7                      ;Cervià de Ter         ;17464          ;GIRONA         ;972496043      
+PONT MAJOR                ;C/ PERE RABAT/PL. DE L'OM              ;Girona                ;17004          ;GIRONA         ;972210009      
+COLOMERS                  ;PL. ESGLÉSIA, S/N                      ;Colomers              ;17144          ;GIRONA         ;972768094      
+MEDINYÀ                   ;C/ MIGDIA, Nº 16                       ;Sant Julià de Ramis   ;17482          ;GIRONA         ;972498255      
+SANT JORDI DESVALLS       ;C/ DR. JOHER S/N                       ;Sant Jordi Desvalls   ;17464          ;GIRONA         ;972798116      
+SARRIÀ DE TER             ;C/ MOSSÈN CINTO VERDAGUER, Nº 3        ;Sarrià de Ter         ;17840          ;GIRONA         ;972170742      
+VIDRERES                  ;AV. COSTA BRAVA, Nº 272                ;Vidreres              ;17411          ;GIRONA         ;972850156      
+RIUDARENES                ;C/ SANT MARTÍ, Nº 57                   ;Riudarenes            ;17421          ;GIRONA         ;972164977      
+SILS                      ;C/ DE COSME I DAMIÀ, S/N               ;Sils                  ;17410          ;GIRONA         ;972168492      
+MAÇANET DE LA SELVA       ;AV. SANT LLORENÇ, Nº 7                 ;Maçanet de la Selva   ;17412          ;GIRONA         ;972859420      
+GUALTA                    ;PL. MAJOR, Nº 1                        ;Gualta                ;17257          ;GIRONA         ;972760809      
+JAFRE                     ;PL. MAJOR, Nº 2 BAIXOS                 ;Jafre                 ;17143          ;GIRONA         ;972768225      
+SERRA DE DARÓ             ;C/ DARÓ, Nº 3                          ;Serra de Daró         ;17133          ;GIRONA         ;972761897      
+LA TALLADA D'EMPORDÀ      ;C/ LES TORRES, Nº 1                    ;Tallada d'Empordà, La ;17134          ;GIRONA         ;972780560      
+TORROELLA DE MONTGRÍ      ;C/ DR. MOLINAS, S/N                    ;Torroella de Montgrí  ;17257          ;GIRONA         ;972761101      
+VERGES                    ;C/ LA PLACETA, Nº 1                    ;Verges                ;17142          ;GIRONA         ;972780494      
+ESTARTIT                  ;C/ ESGLÉSIA, Nº 100                    ;Torroella de Montgrí  ;17258          ;GIRONA         ;972750063      
+AVINYONET DE PUIGVENTÓS   ;PL. PINTOR SIBECAS, Nº 1               ;Avinyonet de Puigventó;17742          ;GIRONA         ;972546134      
+SANTA LLOGAIA D'ALGUEMA   ;C/ ESCOLES, Nº 9                       ;Santa Llogaia d'Àlguem;17771          ;GIRONA         ;972512307      
+CABANELLES                ;PL. ESCOLES, S/N                       ;Cabanelles            ;17746          ;GIRONA         ;972560628      
+CISTELLA                  ;C/ CENTRE, Nº 19                       ;Cistella              ;17741          ;GIRONA         ;972546109      
+SIURANA                   ;PL. MAJOR, S/N                         ;Siurana               ;17469          ;GIRONA         ;972526091      
+LLADÓ                     ;C/ SANTA MARIA, Nº 2                   ;Lladó                 ;17745          ;GIRONA         ;972553568      
+LLERS                     ;C/ NOU, Nº 1 BAIXOS                    ;Llers                 ;17730          ;GIRONA         ;972528405      
+ORDIS                     ;C/ ESGLÉSIA, S/N                       ;Ordis                 ;17772          ;GIRONA         ;972526201      
+ALBANYÀ                   ;C/ FIGUERES, S/N                       ;Albanyà               ;17733          ;GIRONA         ;972569014      
+VILAFANT                  ;C/ MARIA TORRES, Nº 89. URBANITZACIÓ EL;Vilafant              ;17740          ;GIRONA         ;972514349      
+VILAFANT POBLE            ;C/ OLOT, Nº 8                          ;Vilafant              ;17740          ;GIRONA         ;972546936      
+VILAMALLA                 ;C/ BORRASSÀ, Nº 10                     ;Vilamalla             ;17469          ;GIRONA         ;972526189      
+VILANANT                  ;C/ ESCOLES, Nº 1                       ;Vilanant              ;17743          ;GIRONA         ;972546003      
+TARAVAUS                  ;PL. MAJOR, S/N                         ;Vilanant              ;17741          ;GIRONA         ;972514349      
+NAVATA                    ;C/ ESCOLES, Nº 12                      ;Navata                ;17744          ;GIRONA         ;972553531      
+TERRADES                  ;C/ MAJOR, Nº 7                         ;Terrades              ;17731          ;GIRONA         ;972569309      
+SANT LLORENÇ DE LA MUGA   ;C/ ESGLÉSIA, Nº 2                      ;Sant Llorenç de la Mug;17732          ;GIRONA         ;972569337      
+BORRASSÀ                  ;PL. MAJOR, Nº 3                        ;Borrassà              ;17770          ;GIRONA         ;972525037      
+SANT RAMON                ;PL. SANTA MADRONA, Nº 4                ;Sant Ramon            ;25215          ;LLEIDA         ;973524145      
+TALAVERA                  ;PL. MAJOR, S/N                         ;Talavera              ;25213          ;LLEIDA         ;973531048      
+CASTELLNOU D'OLUGES       ;C/ LA PLAÇA, S/N                       ;Cervera               ;25214          ;LLEIDA         ;973531048      
+CERVERA                   ;AV. DURAN I SAMPERE, S/N               ;Cervera               ;25200          ;LLEIDA         ;973531048      
+ESTARÀS                   ;PL. ESTARÀS, Nº 1                      ;Estaràs               ;25214          ;LLEIDA         ;973531048      
+GRANYENA DE SEGARRA       ;C/ SANT PERE, Nº 14                    ;Granyena de Segarra   ;25217          ;LLEIDA         ;973532187      
+IVORRA                    ;PL. MAJOR, S/N                         ;Ivorra                ;25216          ;LLEIDA         ;973531048      
+GUISSONA                  ;C/ RAMBLA DELS SEGADORS, Nº 57         ;Guissona              ;25210          ;LLEIDA         ;973551200      
+MASSOTERES                ;C/ BAIXADA, S/N                        ;Massoteres            ;25211          ;LLEIDA         ;973551200      
+VILAGRASSETA              ;C/ ESGLÉSIA, S/N                       ;Montoliu de Segarra   ;25217          ;LLEIDA         ;973531048      
+MONTOLIU DE SEGARRA       ;C/ CALL, Nº 5                          ;Montoliu de Segarra   ;25217          ;LLEIDA         ;973531048      
+L'AMETLLA DE SEGARRA      ;C/ MAJOR, Nº 32                        ;Montoliu de Segarra   ;25217          ;LLEIDA         ;973531048      
+GRAMUNTELL                ;-                                      ;Ribera d'Ondara       ;25213          ;LLEIDA         ;973531048      
+SANT ANTOLÍ I VILANOVA    ;C/ RAVAL DEL PONT, S/N                 ;Ribera d'Ondara       ;25213          ;LLEIDA         ;973540100      
+EL LLOR                   ;PL. MAJOR, S/N                         ;Torrefeta i Florejacs ;25211          ;LLEIDA         ;973531048      
+BELLVEÍ                   ;C/ AMPLE, S/N                          ;Torrefeta i Florejacs ;25212          ;LLEIDA         ;973551200      
+TORREFETA                 ;PL. ESGLÉSIA, S/N                      ;Torrefeta i Florejacs ;25212          ;LLEIDA         ;973531048      
+SEDÓ                      ;C/ BAIX, S/N                           ;Torrefeta i Florejacs ;25212          ;LLEIDA         ;973531048      
+HOSTAFRANCS               ;C/ ÚNIC, S/N                           ;Plans de Sió, Els     ;25212          ;LLEIDA         ;973531048      
+EL CANÓS                  ;C/ ÚNIC, S/N                           ;Plans de Sió, Els     ;25218          ;LLEIDA         ;973531048      
+CONCABELLA                ;C/ ÚNIC, S/N                           ;Plans de Sió, Els     ;25212          ;LLEIDA         ;973531048      
+LA GUÀRDIA LADA           ;C/ MAJOR, Nº 48                        ;Montoliu de Segarra   ;25217          ;LLEIDA         ;973531048      
+LES OLUGES                ;C/ CASTELL, S/N                        ;Oluges, Les           ;25214          ;LLEIDA         ;973524145      
+SANT GUIM DE FREIXENET    ;C/ GAUDÍ, S/N                          ;Sant Guim de Freixenet;25270          ;LLEIDA         ;973556464      
+SANT GUIM DE LA PLANA     ;C/ BAIXADA CASTELL, S/N                ;Sant Guim de la Plana ;25211          ;LLEIDA         ;973551200      
+CIVIT                     ;PL. MAJOR, S/N                         ;Talavera              ;25213          ;LLEIDA         ;973531048      
+BELLMUNT                  ;C/ LA FONT, Nº 1                       ;Talavera              ;25213          ;LLEIDA         ;973531048      
+TARROJA DE SEGARRA        ;CTRA. GUISSONA, S/N                    ;Tarroja de Segarra    ;25212          ;LLEIDA         ;973520100      
+PUIGVERD D'AGRAMUNT       ;C/ CENDRA, Nº 5                        ;Puigverd d'Agramunt   ;25318          ;LLEIDA         ;973390635      
+MONTCLAR                  ;C/ PARE FIDEL, S/N                     ;Agramunt              ;25317          ;LLEIDA         ;973390635      
+LES VENTOSES              ;C/ BASSETA, S/N                        ;Preixens              ;25316          ;LLEIDA         ;973390635      
+PRADELL DE SIÓ            ;PL. MAJOR, S/N                         ;Preixens              ;25316          ;LLEIDA         ;973390635      
+PREIXENS                  ;CTRA. BALAGUER, Nº 10                  ;Preixens              ;25316          ;LLEIDA         ;973390635      
+BELLVER D'OSSÓ            ;PL. 11 DE SETEMBRE, S/N                ;Ossó de Sió           ;25318          ;LLEIDA         ;973390635      
+CASTELLNOU D'OSSÓ         ;PL. MAJOR, S/N                         ;Ossó de Sió           ;25318          ;LLEIDA         ;973390635      
+MONTFALCÓ D'OSSÓ          ;PL. MAJOR, S/N                         ;Ossó de Sió           ;25318          ;LLEIDA         ;973390635      
+OSSÓ DE SIÓ               ;PL. MAJOR, S/N                         ;Ossó de Sió           ;25318          ;LLEIDA         ;973390790      
+LES PALLARGUES            ;PL. AJUNTAMENT, S/N                    ;Plans de Sió, Els     ;25212          ;LLEIDA         ;973554129      
+MONT-ROIG                 ;C/ FORN, S/N                           ;Plans de Sió, Els     ;25318          ;LLEIDA         ;973390635      
+AGRAMUNT                  ;C/ VERGE DELS SOCORS, S/N              ;Agramunt              ;25310          ;LLEIDA         ;973390635      
+LA DONZELL                ;C/ MAJOR, Nº 5                         ;Agramunt              ;25317          ;LLEIDA         ;973390635      
+MAFET                     ;C/ MAJOR, S/N                          ;Agramunt              ;25317          ;LLEIDA         ;973390635      
+TORRES DE SEGRE           ;C/ JOAN MIRÓ, Nº 1                     ;Torres de Segre       ;25170          ;LLEIDA         ;973796331      
+SOSES                     ;TRAVESSERA SINDICAT, Nº 8              ;Soses                 ;25181          ;LLEIDA         ;973797504      
+ALCARRÀS                  ;C/ DAVANT, Nº 60-62                    ;Alcarràs              ;25180          ;LLEIDA         ;973795725      
+ALGERRI                   ;PL. MAJOR, Nº 1                        ;Algerri               ;25130          ;LLEIDA         ;973426027      
+ALFARRÀS                  ;C/ SISQUELLA, Nº 2                     ;Alfarràs              ;25120          ;LLEIDA         ;973761136      
+ALGUAIRE                  ;C/ EL PERETÓ, S/N                      ;Alguaire              ;25125          ;LLEIDA         ;973757177      
+ALMENAR                   ;C/ ESCOLES, S/N                        ;Almenar               ;25126          ;LLEIDA         ;973770218      
+IVARS DE NOGUERA          ;C/ COSTA DEL PERE, S/N                 ;Ivars de Noguera      ;25122          ;LLEIDA         ;973761370      
+EL PLA DE LA FONT         ;C/ LES ESCOLES, Nº 3                   ;Gimenells i el Pla de ;25114          ;LLEIDA         ;973742020      
+SUCS                      ;C/ BOU, Nº 2                           ;Lleida                ;25113          ;LLEIDA         ;973748415      
+ALMACELLES                ;C/ MELCIOR DE GUÀRDIA, S/N             ;Almacelles            ;25100          ;LLEIDA         ;973742020      
+RAÏMAT                    ;C/ MAJOR, S/N                          ;Lleida                ;25111          ;LLEIDA         ;973742020      
+GIMENELLS                 ;PL. ESPANYA, Nº 9                      ;Gimenells i el Pla de ;25112          ;LLEIDA         ;973748396      
+ARTESA DE SEGRE           ;C/ ÀNGEL GUIMERÓ, Nº 6                 ;Artesa de Segre       ;25730          ;LLEIDA         ;973402196      
+BALDOMAR                  ;C/ DE LA FONT, S/N                     ;Artesa de Segre       ;25737          ;LLEIDA         ;973402196      
+ALENTORN                  ;C/ PATI, S/N                           ;Artesa de Segre       ;25736          ;LLEIDA         ;973401248      
+VILANOVA DE MEIÀ          ;C/ ESCOLES, Nº 4                       ;Vilanova de Meià      ;25735          ;LLEIDA         ;973415008      
+ALÒS DE BALAGUER          ;C/ ESGLÉSIA, Nº 4                      ;Alòs de Balaguer      ;25737          ;LLEIDA         ;973402196      
+MONTGAI                   ;C/ DEL TELÈFONS, S/N                   ;Montgai               ;25616          ;LLEIDA         ;973430107      
+TORRELAMEU                ;C/ DEL FORN, Nº 18                     ;Torrelameu            ;25138          ;LLEIDA         ;973190697      
+LA RÀPITA                 ;PL. SANTA MARGARIDA, S/N               ;Vallfogona de Balaguer;25617          ;LLEIDA         ;973432360      
+VALLFOGONA DE BALAGUER    ;C/ MAJOR, Nº 1                         ;Vallfogona de Balaguer;25680          ;LLEIDA         ;973432360      
+BELLMUNT D'URGELL         ;C/ D. CARDENAL, S/N                    ;Bellmunt d'Urgell     ;25336          ;LLEIDA         ;973610443      
+SANT LLORENÇ DE MONTGAI   ;C/ MAJOR, S/N                          ;Camarasa              ;25613          ;LLEIDA         ;973447714      
+L'AMETLLA DE MONTSEC      ;C/ ÚNIC, S/N                           ;Camarasa              ;25692          ;LLEIDA         ;973455013      
+CAMARASA                  ;C/ STA. MARIA, Nº 32                   ;Camarasa              ;25613          ;LLEIDA         ;973420341      
+MENÀRGUENS                ;C/ ORFANETA, Nº 14                     ;Menàrguens            ;25139          ;LLEIDA         ;973180213      
+LES AVELLANES             ;PL. ESGLÉSIA                           ;Avellanes i Santa Liny;25612          ;LLEIDA         ;973454004      
+VILANOVA DE LA SAL        ;AV. NOGUERA, S/N                       ;Avellanes i Santa Liny;25612          ;LLEIDA         ;973454097      
+TARTAREU                  ;C/ LA SEDA, S/N                        ;Avellanes i Santa Liny;25612          ;LLEIDA         ;973454167      
+SANTA LINYA               ;CTRA. LES AVELLANES, S/N               ;Avellanes i Santa Liny;25612          ;LLEIDA         ;973454128      
+BALAGUER                  ;C/ ÀNGEL GUIMERÓ, Nº 22                ;Balaguer              ;25600          ;LLEIDA         ;973446028      
+BELLCAIRE D'URGELL        ;PL. MAJOR, Nº 5                        ;Bellcaire d'Urgell    ;25337          ;LLEIDA         ;973586249      
+CASTELLÓ DE FARFANYA      ;C/ DEL TORRENT, Nº 22                  ;Castelló de Farfanya  ;25136          ;LLEIDA         ;973428133      
+LA TORRE DE FLUVIÓ        ;C/ ABAIX, S/N                          ;Cubells               ;25737          ;LLEIDA         ;973459005      
+CUBELLS                   ;C/ CASTELLA, Nº 41                     ;Cubells               ;25737          ;LLEIDA         ;973459000      
+RUBIÓ                     ;C/ ESCOLES, S/N                        ;Foradada              ;25737          ;LLEIDA         ;973400095      
+FORADADA                  ;PL. MAJOR, S/N                         ;Foradada              ;25737          ;LLEIDA         ;973400095      
+AGULLÓ                    ;PL. MAJOR, S/N                         ;Àger                  ;25691          ;LLEIDA         ;973455013      
+ÀGER                      ;C/ LA FONT, S/N                        ;Àger                  ;25691          ;LLEIDA         ;973455013      
+VILAMAJOR                 ;C/ ÚNIC, S/N                           ;Àger                  ;25611          ;LLEIDA         ;973455013      
+LA SENTIU DE SIÓ          ;C/ VERGE DE LA GUARDIOLA, Nº 9         ;Sentiu de Sió, La     ;25617          ;LLEIDA         ;973424058      
+OS DE BALAGUER            ;AV. LLEIDA, Nº 1                       ;Os de Balaguer        ;25610          ;LLEIDA         ;973438003      
+GERB                      ;PL. MAJOR, Nº 1                        ;Os de Balaguer        ;25610          ;LLEIDA         ;973449404      
+EL MONESTIR DE LES AVELLAN;CTRA. DE TREMP, Nº KM. 12              ;Os de Balaguer        ;25612          ;LLEIDA         ;973438006      
+PENELLES                  ;C/ CULTURA, S/N                        ;Penelles              ;25335          ;LLEIDA         ;973610443      
+TÉRMENS                   ;PL. CATALUNYA, Nº 1                    ;Térmens               ;25670          ;LLEIDA         ;973181181      
+BUTSÈNIT DE MONTGAI       ;PL. ESGLÉSIA, Nº 2                     ;Montgai               ;25617          ;LLEIDA         ;973430341      
+ELS OMELLS DE NA GAIA     ;PL. MAJOR, Nº 1                        ;Omells de na Gaia, Els;43449          ;LLEIDA         ;973330265      
+PREIXANA                  ;PL. CATALUNYA, S/N                     ;Preixana              ;25263          ;LLEIDA         ;973321037      
+BELIANES                  ;PL. ESGLÉSIA, S/N                      ;Belianes              ;25266          ;LLEIDA         ;973331160      
+MALDÀ                     ;PL. H. DE LA VELLESA, Nº 1             ;Maldà                 ;25266          ;LLEIDA         ;973331122      
+SEANA                     ;C/ LES ESCOLES, S/N                    ;Bellpuig              ;25262          ;LLEIDA         ;973718359      
+BELLPUIG                  ;C/ DIPUTACIÓ, S/N                      ;Bellpuig              ;25250          ;LLEIDA         ;973337157      
+SANT MARTÍ DE MALDÀ       ;PL. MAJOR, Nº 16                       ;Sant Martí de Riucorb ;25344          ;LLEIDA         ;973331096      
+ROCAFORT DE VALLBONA      ;C/ RAVAL, S/N                          ;Sant Martí de Riucorb ;25344          ;LLEIDA         ;973337157      
+LLORENÇ DE ROCAFORT       ;C/ ESGLÉSIA, S/N                       ;Sant Martí de Riucorb ;25267          ;LLEIDA         ;973330286      
+ROCALLAURA                ;C/ MONTSERRAT, S/N                     ;Vallbona de les Monges;25269          ;LLEIDA         ;973337157      
+VALLBONA DE LES MONGES    ;C/ PRAT DE LA RIBA, Nº 1               ;Vallbona de les Monges;25268          ;LLEIDA         ;973330736      
+BELLAGUARDA               ;C/ ESCOLES, Nº 12                      ;Bellaguarda           ;25163          ;LLEIDA         ;973124046      
+JUNCOSA                   ;AV. ESPORTS, Nº 1                      ;Juncosa               ;25165          ;LLEIDA         ;973128090      
+GRANYENA DE LES GARRIGUES ;C/ PORTAL, Nº 5                        ;Granyena de les Garrig;25160          ;LLEIDA         ;973136377      
+LA GRANADELLA             ;C/ LA POBLA, Nº 74                     ;Granadella, La        ;25177          ;LLEIDA         ;973133207      
+EL SOLERÀS                ;PL. ESCOLES, Nº 4                      ;Soleràs, El           ;25163          ;LLEIDA         ;973133628      
+BOVERA                    ;C/ RAVAL, Nº 5                         ;Bovera                ;25178          ;LLEIDA         ;973133512      
+ELS TORMS                 ;C/ ERAL, S/N                           ;Torms, Els            ;25164          ;LLEIDA         ;973128113      
+LLARDECANS                ;C/ RAVAL, Nº 62                        ;Llardecans            ;25179          ;LLEIDA         ;973130288      
+CASTELLDANS               ;PG. MORAGUES, Nº 23                    ;Castelldans           ;25154          ;LLEIDA         ;973120155      
+L'ALBAGÉS                 ;AV. GARRIGUES, Nº 17                   ;Albagés, L'           ;25155          ;LLEIDA         ;973121156      
+LA FLORESTA               ;C/ LA FONT, S/N                        ;Floresta, La          ;25413          ;LLEIDA         ;973142274      
+FULLEDA                   ;C/ FORN, S/N                           ;Fulleda               ;25411          ;LLEIDA         ;973156192      
+JUNEDA                    ;C/ DOMINGO CARDENAL CANTONADA          ;Juneda                ;25430          ;LLEIDA         ;973150221      
+LES BORGES BLANQUES       ;C/ RAVAL DEL CARME, Nº 147             ;Borges Blanques, Les  ;25400          ;LLEIDA         ;973142033      
+L'ALBI                    ;C/ ABEURADOR, Nº 1                     ;Albi, L'              ;25450          ;LLEIDA         ;973175056      
+VINAIXA                   ;C/ NOU, S/N                            ;Vinaixa               ;25440          ;LLEIDA         ;973175497      
+TARRÉS                    ;AV. MONTSERRAT, Nº 33                  ;Tarrés                ;25480          ;LLEIDA         ;973175620      
+EL VILOSELL               ;PL. SANT SEBASTIÀ, Nº 12               ;Vilosell, El          ;25457          ;LLEIDA         ;973175266      
+ELS OMELLONS              ;PL. MAJOR, Nº 13                       ;Omellons, Els         ;25412          ;LLEIDA         ;973156298      
+LA POBLA DE CÉRVOLES      ;C/ DE LES SORTS, S/N                   ;Pobla de Cérvoles, La ;25471          ;LLEIDA         ;973166028      
+ARBECA                    ;C/ DE L'ERAL, S/N                      ;Arbeca                ;25140          ;LLEIDA         ;973160375      
+CERVIÀ DE LES GARRIGUES   ;C/ FRANCESC PALAU, Nº 1                ;Cervià de les Garrigue;25460          ;LLEIDA         ;973178124      
+L'ESPLUGA CALBA           ;C/ PAU CASALS, Nº 15                   ;Espluga Calba, L'     ;25410          ;LLEIDA         ;973156127      
+EL COGUL                  ;PL. DE LA VILA, Nº 4                   ;Cogul, El             ;25152          ;LLEIDA         ;973120367      
+RAMBLA DE FERRAN          ;RAMBLA DE FERRAN, Nº 44                ;Lleida                ;25007          ;LLEIDA         ;973725380      
+PRAT DE LA RIBA           ;AV. PRAT DE LA RIBA, Nº 56             ;Lleida                ;25004          ;LLEIDA         ;973232819      
+PRIMER DE MAIG            ;C/ MERCE, Nº 5                         ;Lleida                ;25002          ;LLEIDA         ;973272446      
+EIXAMPLE                  ;C/ BALMES, Nº 4                        ;Lleida                ;25006          ;LLEIDA         ;973280957      
+BALAFIÀ-PARDINYES-SECÀ DE ;AV. DE L'ALCALDE RECASENS, S/N         ;Lleida                ;25005          ;LLEIDA         ;973230635      
+CAPPONT                   ;MARQUÈS DE LEGANÉS, S/N                ;Lleida                ;25001          ;LLEIDA         ;973210175      
+BORDETA - MAGRANERS       ;D'EN BOQUÉ, S/N                        ;Lleida                ;25001          ;LLEIDA         ;973211477      
+ONZE DE SETEMBRE          ;PASSEIG L'ONZE DE SETEMBRE, Nº 10      ;Lleida                ;25005          ;LLEIDA         ;973701223      
+ALPICAT                   ;C/ BOSC, S/N                           ;Alpicat               ;25110          ;LLEIDA         ;973736104      
+CORBINS                   ;PL. DE LA VILA, S/N                    ;Corbins               ;25137          ;LLEIDA         ;973191169      
+BENAVENT DE SEGRIÓ        ;PL. LES ESCOLES, Nº 10                 ;Benavent de Segrià    ;25132          ;LLEIDA         ;973777580      
+TORREFARRERA              ;C/ VERGE MONTSERRAT, S/N               ;Torrefarrera          ;25123          ;LLEIDA         ;973750028      
+ALCOLETGE                 ;C/ DOCTOR FLEMING, Nº 2                ;Alcoletge             ;25660          ;LLEIDA         ;973196397      
+VILANOVA DE LA BARCA      ;C/ MAJOR, Nº 21                        ;Vilanova de la Barca  ;25690          ;LLEIDA         ;973191203      
+LA PORTELLA               ;CTRA. DE LLEIDA, Nº 24                 ;Portella, La          ;25134          ;LLEIDA         ;973186220      
+ROSSELLÓ                  ;AVDA. GUILLEM DE ROSSELLÓ, Nº 1        ;Rosselló              ;25124          ;LLEIDA         ;973732820      
+VILANOVA DEL SEGRIÓ       ;PL. DR. VINYAS, S/N                    ;Vilanova de Segrià    ;25133          ;LLEIDA         ;973777523      
+TORRE-SERONA              ;C/ MAJOR, Nº 29                        ;Torre-serona          ;25131          ;LLEIDA         ;973750347      
+ALBESA                    ;C/ FERMÍ PALAU, Nº 2                   ;Albesa                ;25136          ;LLEIDA         ;973186008      
+PUIGVERD DE LLEIDA        ;PL. MAJOR, Nº 7                        ;Puigverd de Lleida    ;25153          ;LLEIDA         ;973167517      
+ALFÉS                     ;C/ FORN, Nº 11                         ;Alfés                 ;25161          ;LLEIDA         ;973136079      
+SARROCA DE LLEIDA         ;C/ CARRETERA, Nº 10                    ;Sarroca de Lleida     ;25175          ;LLEIDA         ;973126020      
+ARTESA DE LLEIDA          ;C/ BASSA, Nº 2                         ;Artesa de Lleida      ;25150          ;LLEIDA         ;973167291      
+SUDANELL                  ;C/ DEL SEGRE, S/N                      ;Sudanell              ;25173          ;LLEIDA         ;973258214      
+MONTOLIU DE LLEIDA        ;C/ ORIENT, Nº 3                        ;Montoliu de Lleida    ;25172          ;LLEIDA         ;973720489      
+SUNYER                    ;TRAVESÍA ECOLES, S/N                   ;Sunyer                ;25174          ;LLEIDA         ;973136507      
+ALCANÓ                    ;C/ MAJOR, Nº 13                        ;Alcanó                ;25162          ;LLEIDA         ;973136204      
+ALBATÀRREC                ;C/ ESCOLES, Nº 1                       ;Albatàrrec            ;25171          ;LLEIDA         ;973720111      
+ASPA                      ;C/ MAJOR, Nº 5                         ;Aspa                  ;25151          ;LLEIDA         ;973122077      
+TORREBESSES               ;C/ MAJOR, Nº 31                        ;Torrebesses           ;25176          ;LLEIDA         ;973126312      
+MIRALCAMP                 ;PL. CATALUNYA, Nº 1                    ;Miralcamp             ;25242          ;LLEIDA         ;973600800      
+IVARS D'URGELL            ;PG. FELIP RODES, Nº 8                  ;Ivars d'Urgell        ;25260          ;LLEIDA         ;973580650      
+SIDAMON                   ;C/ BALMES, S/N                         ;Sidamon               ;25222          ;LLEIDA         ;973560028      
+PUIGGRÒS                  ;C/ NOU, S/N                            ;Puiggròs              ;25420          ;LLEIDA         ;973143531      
+EL POAL                   ;PL. CATALUNYA, S/N                     ;Poal, El              ;25143          ;LLEIDA         ;973566060      
+VILA-SANA                 ;PL. MAJOR, Nº 2                        ;Vila-sana             ;25245          ;LLEIDA         ;973710043      
+ELS ALAMÚS                ;PL. DE L'ESGLÈSIA, S/N                 ;Alamús, Els           ;25221          ;LLEIDA         ;973199189      
+EL PALAU D'ANGLESOLA      ;C/ SANT JOSEP, Nº 1                    ;Palau d'Anglesola, El ;25243          ;LLEIDA         ;973710974      
+VILANOVA DE BELLPUIG      ;C/ PARE PACÍFIC, Nº 4                  ;Vilanova de Bellpuig  ;25264          ;LLEIDA         ;973324353      
+BARBENS                   ;C/ JACINT VERDAGUER, S/N               ;Barbens               ;25262          ;LLEIDA         ;973718038      
+BELL-LLOC D'URGELL        ;VÌA FÉRREA, Nº 5                       ;Bell-lloc d'Urgell    ;25220          ;LLEIDA         ;973717200      
+CASTELLNOU DE SEANA       ;C/ CALVARI, Nº 1                       ;Castellnou de Seana   ;25265          ;LLEIDA         ;973337167      
+VALLVERD                  ;C/ SANT MIQUEL, S/N                    ;Ivars d'Urgell        ;25260          ;LLEIDA         ;973580425      
+TORREGROSSA               ;C/ JACINT VERDAGUER, S/N               ;Torregrossa           ;25141          ;LLEIDA         ;973170356      
+LINYOLA                   ;PL. PAU CASALS, Nº 1                   ;Linyola               ;25240          ;LLEIDA         ;973714324      
+ELS ARCS                  ;C/ CONVENT, S/N                        ;Bellvís               ;25144          ;LLEIDA         ;973711164      
+BELLVÍS                   ;C/ MAJOR, Nº 19                        ;Bellvís               ;25142          ;LLEIDA         ;973716129      
+FONDARELLA                ;MOSSÈN JESÚS HUGUET, Nº 1              ;Fondarella            ;25244          ;LLEIDA         ;973711790      
+GOLMÉS                    ;PL. MAJOR, S/N                         ;Golmés                ;25241          ;LLEIDA         ;973712799      
+MOLLERUSSA                ;CTRA. DE MIRALCAMP, S/N                ;Mollerussa            ;25230          ;LLEIDA         ;973711164      
+VILANOVA DE L'AGUDA       ;C/ JOAQUIM DONATO, Nº 22               ;Vilanova de l'Aguda   ;25749          ;LLEIDA         ;973460927      
+GUALTER                   ;C/ DEL PONT, S/N                       ;Baronia de Rialb, La  ;25747          ;LLEIDA         ;973461000      
+SANAÜJA                   ;C/ BASSAL, Nº 4                        ;Sanaüja               ;25753          ;LLEIDA         ;973476066      
+PONTS                     ;CTRA. DE LLEIDA, Nº 3                  ;Ponts                 ;25740          ;LLEIDA         ;973461000      
+CABANABONA                ;C/ VILALTA, Nº 7                       ;Cabanabona            ;25748          ;LLEIDA         ;973461000      
+OLIOLA                    ;PL. MAJOR, Nº 1                        ;Oliola                ;25749          ;LLEIDA         ;973462113      
+ALMATRET                  ;C/ SAN JOAN, Nº 60-62                  ;Almatret              ;25187          ;LLEIDA         ;973138038      
+SERÒS                     ;C/ RICARD VINYES, Nº 8                 ;Seròs                 ;25183          ;LLEIDA         ;973780328      
+MASSALCOREIG              ;PL. DE LA ESGLÉSIA, S/N                ;Massalcoreig          ;25184          ;LLEIDA         ;973793601      
+AITONA                    ;AVDA. 27 DE GENER, Nº 67               ;Aitona                ;25182          ;LLEIDA         ;973794636      
+LA GRANJA D'ESCARP        ;PL. NOVA, S/N                          ;Granja d'Escarp, La   ;25185          ;LLEIDA         ;973782090      
+MAIALS                    ;PL. E. SALES, S/N                      ;Maials                ;25179          ;LLEIDA         ;973130503      
+MONTORNÈS DE SEGARRA      ;C/ MAJOR, S/N                          ;Montornès de Segarra  ;25340          ;LLEIDA         ;973310852      
+EL TARRÒS                 ;C/ MAJOR, S/N                          ;Tornabous             ;25331          ;LLEIDA         ;973310852      
+NALEC                     ;PL. AJUNTAMENT, Nº 1                   ;Nalec                 ;25341          ;LLEIDA         ;973303129      
+ANGLESOLA                 ;AV. CATALUNYA, Nº 37                   ;Anglesola             ;25320          ;LLEIDA         ;973308254      
+SANTA MARIA DE MONTMAGASTR;AV. CATALUNYA, S/N                     ;Tàrrega               ;25354          ;LLEIDA         ;973310852      
+LA FIGUEROSA              ;PL. AJUNTAMENT, S/N                    ;Tàrrega               ;25351          ;LLEIDA         ;973310852      
+EL TALLADELL              ;C/ COSTA SANT PERE, S/N                ;Tàrrega               ;25360          ;LLEIDA         ;973310852      
+CLARAVALLS                ;C/ LES ESCOLES, S/N                    ;Tàrrega               ;25353          ;LLEIDA         ;973333036      
+ALTET                     ;PL. ESGLÈSIA, S/N                      ;Tàrrega               ;25350          ;LLEIDA         ;973310852      
+TÀRREGA                   ;C/ SALVADOR ESPRIU, S/N                ;Tàrrega               ;25300          ;LLEIDA         ;973310852      
+VERDÚ                     ;PL. MAJOR, S/N                         ;Verdú                 ;25340          ;LLEIDA         ;973348122      
+LA FULIOLA                ;PL. AJUNTAMENT, S/N                    ;Fuliola, La           ;25332          ;LLEIDA         ;973570697      
+VILAGRASSA                ;C/ ANGLESOLA, S/N                      ;Vilagrassa            ;25330          ;LLEIDA         ;973500374      
+CASTELLSERÀ               ;C/ MAJOR, Nº 39                        ;Castellserà           ;25334          ;LLEIDA         ;973610056      
+CIUTADILLA                ;PL. MAJOR, Nº 4                        ;Ciutadilla            ;25341          ;LLEIDA         ;973303246      
+GUIMERÀ                   ;CTRA. DE TÓRREGA, Nº 28                ;Guimerà               ;25341          ;LLEIDA         ;973303510      
+TORNABOUS                 ;C/ MAJOR, S/N                          ;Tornabous             ;25331          ;LLEIDA         ;973570344      
+LA GUÀRDIA                ;C/ ESCOLES, S/N                        ;Tornabous             ;25331          ;LLEIDA         ;973310852      
+EL MAS DE BONDIA          ;C/ BARTOMEU, Nº 3                      ;Montornès de Segarra  ;25340          ;LLEIDA         ;973310852      
+SANTA BÀRBARA             ;C/ VERGE DE MONTSERRAT, S/N            ;Santa Bàrbara         ;43570          ;TARRAGONA      ;977718016      
+FREGINALS                 ;C/ ESCOLES, S/N                        ;Freginals             ;43558          ;TARRAGONA      ;977572753      
+MASDENVERGE               ;C/ BALMES, S/N                         ;Masdenverge           ;43878          ;TARRAGONA      ;977718469      
+ELS MUNTELLS              ;C/ TORTOSA, Nº 3                       ;Sant Jaume d'Enveja   ;43879          ;TARRAGONA      ;977479011      
+AMPOSTA                   ;AV. DE CATALUNYA, Nº 78                ;Amposta               ;43870          ;TARRAGONA      ;977702890      
+SANT JAUME D'ENVEJA       ;PL. FRANCESC GRAUPERA, Nº 89-91        ;Sant Jaume d'Enveja   ;43877          ;TARRAGONA      ;977468482      
+GODALL                    ;C/ REVERENDA MARE TERESA BLANC, S/N    ;Godall                ;43516          ;TARRAGONA      ;977738105      
+LA GALERA                 ;C/ CARASOL, S/N                        ;Galera, La            ;43515          ;TARRAGONA      ;977718788      
+DELTEBRE                  ;C/ ESPORTIVA, Nº 164                   ;Deltebre              ;43580          ;TARRAGONA      ;977489691      
+LA BISBAL DE FALSET       ;C/ MAJOR, Nº 7                         ;Bisbal de Falset, La  ;43372          ;TARRAGONA      ;977819030      
+FLIX                      ;C/ MAJOR, Nº 76                        ;Flix                  ;43750          ;TARRAGONA      ;977412208      
+MARGALEF                  ;PL. SANT MIQUEL, Nº 15                 ;Margalef              ;43371          ;TARRAGONA      ;977819167      
+LA TORRE DEL ESPANYOL     ;PL. LA PAU, Nº 5                       ;Torre de l'Espanyol, L;43792          ;TARRAGONA      ;977405375      
+LA PALMA D'EBRE           ;C/ MAJOR, Nº 26                        ;Palma d'Ebre, La      ;43370          ;TARRAGONA      ;977819066      
+ASCÓ                      ;PL. PLACETA, S/N                       ;Ascó                  ;43791          ;TARRAGONA      ;977405385      
+VINEBRE                   ;AV. QUATRE BARRES CATALANES, Nº 2      ;Vinebre               ;43792          ;TARRAGONA      ;977405807      
+RIBA-ROJA D'EBRE          ;C/ DE LA RIBERA, S/N - CANTONADA SANT A;Riba-roja d'Ebre      ;43790          ;TARRAGONA      ;977416052      
+ELS LIGALLOS              ;AV. CONSELLER J. NAVARRO, S/N          ;Camarles              ;43894          ;TARRAGONA      ;977471028      
+CAMARLES                  ;C/ VINT-I-SIS, Nº 2                    ;Camarles              ;43894          ;TARRAGONA      ;977470561      
+L'AMPOLLA                 ;PL. MANUEL FERRER, S/N                 ;Ampolla, L'           ;43895          ;TARRAGONA      ;977460601      
+L'ALDEA                   ;C/ MOSSÉN ALFONSO MONFORT, S/N         ;Aldea, L'             ;43896          ;TARRAGONA      ;977451213      
+EL PERELLÓ                ;C/ LLUÍS COMPANYS, Nº 20               ;Perelló, El           ;43519          ;TARRAGONA      ;977490213      
+L'AMETLLA DE MAR          ;C/ LLIBERTAT, Nº 70                    ;Ametlla de Mar, L'    ;43860          ;TARRAGONA      ;977493514      
+MÓRA LA NOVA              ;C/ FRANCESC MACIÀ, Nº 58               ;Móra la Nova          ;43770          ;TARRAGONA      ;977401452      
+MÓRA D'EBRE               ;C/ BENET I MESSEGUER, S/N              ;Móra d'Ebre           ;43740          ;TARRAGONA      ;977401302      
+MIRAVET                   ;PL. MAJOR, S/N                         ;Miravet               ;43747          ;TARRAGONA      ;977407084      
+BENISSANET                ;C/ CALVARI, S/N                        ;Benissanet            ;43747          ;TARRAGONA      ;977407669      
+LA SERRA D'ALMÓS          ;C/ MAJOR, Nº 19                        ;Tivissa               ;43746          ;TARRAGONA      ;977418107      
+TIVISSA                   ;C/ CASERNA, Nº 3 - 4                   ;Tivissa               ;43746          ;TARRAGONA      ;977418393      
+RASQUERA                  ;C/ TORTOSA, S/N                        ;Rasquera              ;43513          ;TARRAGONA      ;977409145      
+GINESTAR                  ;C/ DEL RIU, S/N                        ;Ginestar              ;43748          ;TARRAGONA      ;977409297      
+GARCIA                    ;AV. RIBERA, S/N                        ;Garcia                ;43749          ;TARRAGONA      ;977402716      
+DARMÓS                    ;PL. MAJOR DE LA MATA, Nº 5             ;Tivissa               ;43746          ;TARRAGONA      ;977418313      
+EL POBLE NOU DEL DELTA    ;PL. DEL JARDÍ, Nº 6                    ;Amposta               ;43549          ;TARRAGONA      ;977742204      
+ALCANAR                   ;PG. LLUÍS COMPANYS, Nº 1               ;Alcanar               ;43530          ;TARRAGONA      ;977732432      
+LES CASES D'ALCANAR       ;C/ LEPANTO, S/N                        ;Alcanar               ;43569          ;TARRAGONA      ;977735106      
+SANT CARLES DE LA RÀPITA  ;AV. CONSTITUCIÓ, Nº 62                 ;Sant Carles de la Ràpi;43540          ;TARRAGONA      ;977741667      
+CASERES                   ;PL. ESGLÉSIA, S/N                      ;Caseres               ;43787          ;TARRAGONA      ;977431944      
+HORTA DE SANT JOAN        ;AV. GENERALITAT, Nº 14                 ;Horta de Sant Joan    ;43596          ;TARRAGONA      ;977435045      
+EL PINELL DE BRAI         ;PL. CATALUNYA, Nº 1                    ;Pinell de Brai, El    ;43594          ;TARRAGONA      ;977426329      
+LA POBLA DE MASSALUCA     ;C/ MAJOR, Nº 10                        ;Pobla de Massaluca, La;43783          ;TARRAGONA      ;977439724      
+PRAT DE COMTE             ;C/ DEL CARME, Nº 5                     ;Prat de Comte         ;43595          ;TARRAGONA      ;977428344      
+ARNES                     ;PL. DE LA VILA, Nº 1                   ;Arnes                 ;43597          ;TARRAGONA      ;977435725      
+BOT                       ;C/ JOAN AMADES, Nº 7                   ;Bot                   ;43785          ;TARRAGONA      ;977428116      
+LA FATARELLA              ;C/ SUÑE, Nº 3                          ;Fatarella, La         ;43781          ;TARRAGONA      ;977413760      
+CORBERA D'EBRE            ;C/ SANT ROC, Nº 17                     ;Corbera d'Ebre        ;43784          ;TARRAGONA      ;977421303      
+GANDESA                   ;C/ JOAN PERUCHO, S/N                   ;Gandesa               ;43780          ;TARRAGONA      ;977421245      
+VILALBA DELS ARCS         ;C/ ERES, Nº 38                         ;Vilalba dels Arcs     ;43782          ;TARRAGONA      ;977438025      
+BATEA                     ;AV. DE LA TERRA ALTA, Nº 58            ;Batea                 ;43786          ;TARRAGONA      ;977430318      
+TIVENYS                   ;C/ ABADIA, Nº 10                       ;Tivenys               ;43511          ;TARRAGONA      ;977496163      
+EL TEMPLE                 ;AVDA. DE LA GENERALITAT, S/N           ;Tortosa               ;43500          ;TARRAGONA      ;977510951      
+BÍTEM                     ;C/ HEREUS DE GASSOL, S/N               ;Tortosa               ;43510          ;TARRAGONA      ;977596764      
+CAMP-REDÓ                 ;C/ RAFAEL ESCARDO VALLÈS, S/N          ;Tortosa               ;43897          ;TARRAGONA      ;977597598      
+EL RAVAL DE CRIST         ;C/ CASAL, Nº 1                         ;Roquetes              ;43529          ;TARRAGONA      ;977503965      
+JESÚS                     ;CTRA. ROQUETES-JESÚS, S/N              ;Tortosa               ;43500          ;TARRAGONA      ;977503211      
+ELS REGUERS               ;C/ SANT GREGORI, Nº 27                 ;Tortosa               ;43527          ;TARRAGONA      ;977474089      
+BAIX EBRE                 ;AVDA. DE COLOM, Nº 16-20               ;Tortosa               ;43500          ;TARRAGONA      ;977502638      
+ROQUETES                  ;PG. DEL CANAL, Nº 9                    ;Roquetes              ;43520          ;TARRAGONA      ;977588652      
+MAS DE BARBERANS          ;C/ MOLÍ, Nº 96                         ;Mas de Barberans      ;43514          ;TARRAGONA      ;977739200      
+BENIFALLET                ;C/ MARCEL Í DOMINGO, Nº 2              ;Benifallet            ;43512          ;TARRAGONA      ;977462212      
+PAÜLS                     ;C/ DIPUTACIÓ, Nº 8                     ;Paüls                 ;43593          ;TARRAGONA      ;977492394      
+ALFARA DE CARLES          ;C/ NOU, Nº 4                           ;Alfara de Carles      ;43528          ;TARRAGONA      ;977455092      
+XERTA                     ;C/ D. MARC SANCHO, S/N                 ;Xerta                 ;43592          ;TARRAGONA      ;977473816      
+ALDOVER                   ;AV. CATALUNYA, S/N                     ;Aldover               ;43591          ;TARRAGONA      ;977473422      
+ULLDECONA                 ;C/ MONTSERRAT ROIG, Nº 2               ;Ulldecona             ;43550          ;TARRAGONA      ;977721322      
+SANT JOAN DEL PAS         ;C/ IMMACULADA, Nº 52                   ;Ulldecona             ;43559          ;TARRAGONA      ;-              
+LA SÉNIA                  ;PASSEIG DE LA CLOTADA, Nº 60           ;Sénia, La             ;43560          ;TARRAGONA      ;977570903      
+EL CASTELL                ;C/ SANT JAUME, Nº 45                   ;Ulldecona             ;43550          ;TARRAGONA      ;-              
+ELS VALENTINS             ;C/ MAJOR, S/N                          ;Ulldecona             ;43550          ;TARRAGONA      ;-              
+LES VENTALLES             ;C/ PILAR, Nº 20                        ;Ulldecona             ;43550          ;TARRAGONA      ;-              
